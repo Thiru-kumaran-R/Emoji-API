@@ -21,13 +21,13 @@ The Emojipedia API is a RESTful API developed using Deno.js and MongoDB, allowin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/emojipedia-api.git
+    git clone https://github.com/thirukumaran05/Emojipedia.git
     ```
 
 2. Install dependencies:
 
     ```bash
-    deno install --allow-net --allow-read --unstable deps.ts
+    deno install --allow-net --allow-read --unstable server.ts
     ```
 
 3. Start the server:
