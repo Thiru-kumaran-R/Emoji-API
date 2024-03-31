@@ -1,6 +1,6 @@
 import { Context } from "https://deno.land/x/oak@14.2.0/context.ts";
 
-import emojipedia from "../model/emoji.js";
+import emojipedia from "../model/emoji.ts";
 
 export const getEmoji = async (ctx: any) => {
   try {
@@ -19,8 +19,7 @@ export const getEmoji = async (ctx: any) => {
     if (!requestedEmoji) {
       return (ctx.response.body = {
         unicode : unicode ,
-        meaning:
-          "Emoji does not exist! Try posting this emoji along with its meaning",
+        message: "Emoji does not exist! Try posting this emoji along with its meaning",
       });
     }
   } catch (err) {
@@ -30,6 +29,29 @@ export const getEmoji = async (ctx: any) => {
     });
   }
 };
+
+export const getRandom = async (ctx : Context ) => {
+  try{
+    const randomUnicode = await emojipedia.aggregate([
+      { $sample : { size : 1} },
+      { $project: { _id: 0, _v: 0 } },
+    ])
+
+    return ctx.response.body = {
+      unicode : randomUnicode[0].unicode,
+      name : randomUnicode[0].name,
+      category : randomUnicode[0].category,
+      description : randomUnicode[0].description,
+      keywords : randomUnicode[0].keywords
+    }
+    
+  }catch (err) {
+    return ctx.response.body = {
+        message: err.message,
+        statusCode: 500,
+    }
+  }
+}
 
 export const postEmoji = async (ctx: Context) => {
   try {
@@ -57,10 +79,10 @@ export const postEmoji = async (ctx: Context) => {
         statusCode: 200,
     });
   } catch (err) {
-    return (ctx.response.body = {
+    return ctx.response.body = {
       message: err.message,
       statusCode: 500,
-    });
+    };
   }
 };
 
@@ -80,7 +102,7 @@ export const deleteEmoji = async ( ctx: any ) => {
     if (!deletedEmoji) {
       return (ctx.response.body = {
         unicode : unicode,
-        meaning: "Emoji does not exists! ",
+        message: "Emoji does not exists! ",
         statusCode: 404,
       });
     }

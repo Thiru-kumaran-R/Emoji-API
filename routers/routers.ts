@@ -4,6 +4,8 @@ import * as emojiController from '../controller/controller.ts';
 
 const router = new Router();
 
+router.get('/random', emojiController.getRandom );
+
 router.get('/:unicode', emojiController.getEmoji );
 
 router.post('/', emojiController.postEmoji );

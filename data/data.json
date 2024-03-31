@@ -1,0 +1,1725 @@
+[
+    {
+      "unicode": "🎉",
+      "name": "Party Popper",
+      "category": "Events & Celebrations",
+      "description": "A colorful party popper, typically used to celebrate birthdays and other special occasions.",
+      "keywords": ["party", "celebration", "birthday", "anniversary", "confetti", "surprise", "excitement"]
+    },
+    {
+      "unicode": "🎊",
+      "name": "Confetti Ball",
+      "category": "Events & Celebrations",
+      "description": "A golden ball, split open to reveal a bright, multi-colored confetti explosion.",
+      "keywords": ["confetti", "celebration", "party", "birthday", "anniversary", "festive", "joy"]
+    },
+    {
+      "unicode": "🎈",
+      "name": "Balloon",
+      "category": "Events & Celebrations",
+      "description": "A colorful balloon, used for decoration and celebration.",
+      "keywords": ["balloon", "party", "celebration", "birthday", "fun", "festive", "decor"]
+    },
+    {
+      "unicode": "🎁",
+      "name": "Wrapped Gift",
+      "category": "Events & Celebrations",
+      "description": "A gift box, wrapped with a ribbon and bow.",
+      "keywords": ["gift", "present", "celebration", "birthday", "holiday", "surprise"]
+    },
+    {
+      "unicode": "🎂",
+      "name": "Birthday Cake",
+      "category": "Events & Celebrations",
+      "description": "A frosted cake with lit candles, as presented for a birthday celebration.",
+      "keywords": ["cake", "birthday", "celebration", "party", "dessert", "sweet", "candles"]
+    },
+    {
+      "unicode": "🎆",
+      "name": "Fireworks",
+      "category": "Events & Celebrations",
+      "description": "A colorful explosion of fireworks in the night sky.",
+      "keywords": ["fireworks", "celebration", "party", "event", "festive", "night", "sky"]
+    },
+    {
+      "unicode": "🎇",
+      "name": "Sparkler",
+      "category": "Events & Celebrations",
+      "description": "A sparkler, lit at one end, giving off sparks and colored flames.",
+      "keywords": ["sparkler", "firework", "celebration", "party", "event", "night", "festive"]
+    },
+    {
+      "unicode": "🎗️",
+      "name": "Reminder Ribbon",
+      "category": "Events & Celebrations",
+      "description": "A yellow ribbon, as tied around a tree or post for a reminder.",
+      "keywords": ["reminder", "ribbon", "awareness", "support", "cause", "hope"]
+    },
+    {
+      "unicode": "🎀",
+      "name": "Ribbon",
+      "category": "Events & Celebrations",
+      "description": "A decorative ribbon, as tied into a bow on a gift or woman's hat.",
+      "keywords": ["ribbon", "decoration", "decorative", "bow", "gift", "present"]
+    },
+    {
+      "unicode": "🎗️",
+      "name": "Military Medal",
+      "category": "Events & Celebrations",
+      "description": "A medal, as awarded for bravery or distinguished service.",
+      "keywords": ["medal", "military", "award", "bravery", "distinguished", "service"]
+    },
+    {
+      "unicode": "🏆",
+      "name": "Trophy",
+      "category": "Events & Celebrations",
+      "description": "A golden trophy, as awarded after a sports victory or other competition.",
+      "keywords": ["trophy", "award", "prize", "winner", "champion", "sports", "competition"]
+    },
+    {
+      "unicode": "🎖️",
+      "name": "Military Medal",
+      "category": "Events & Celebrations",
+      "description": "A medal, as awarded for bravery or distinguished service.",
+      "keywords": ["medal", "military", "award", "bravery", "distinguished", "service"]
+    },
+    {
+      "unicode": "🏅",
+      "name": "Sports Medal",
+      "category": "Events & Celebrations",
+      "description": "A medal, as awarded for sporting achievements.",
+      "keywords": ["medal", "award", "prize", "winner", "champion", "sports", "competition"]
+    },
+    {
+      "unicode": "🥇",
+      "name": "1st Place Medal",
+      "category": "Events & Celebrations",
+      "description": "A gold medal, awarded to the winner of a competition.",
+      "keywords": ["1st place", "gold", "medal", "award", "prize", "winner", "champion"]
+    },
+    {
+      "unicode": "🥈",
+      "name": "2nd Place Medal",
+      "category": "Events & Celebrations",
+      "description": "A silver medal, awarded to the second-place finisher of a competition.",
+      "keywords": ["2nd place", "silver", "medal", "award", "prize"]
+    },
+    {
+      "unicode": "🥉",
+      "name": "3rd Place Medal",
+      "category": "Events & Celebrations",
+      "description": "A bronze medal, awarded to the third-place finisher of a competition.",
+      "keywords": ["3rd place", "bronze", "medal", "award", "prize"]
+    },
+    {
+      "unicode": "🎫",
+      "name": "Ticket",
+      "category": "Events & Celebrations",
+      "description": "A colorful ticket, generally used for admission to an event or venue.",
+      "keywords": ["ticket", "admission", "event", "venue", "entertainment"]
+    },
+    {
+      "unicode": "🎟️",
+      "name": "Admission Tickets",
+      "category": "Events & Celebrations",
+      "description": "Two tickets, showing admission to an event.",
+      "keywords": ["admission", "tickets", "event", "concert", "show"]
+    },
+    {
+      "unicode": "🎪",
+      "name": "Circus Tent",
+      "category": "Events & Celebrations",
+      "description": "A tent, used for circus performances.",
+      "keywords": ["circus", "tent", "performance", "entertainment"]
+    },
+    {
+      "unicode": "🎭",
+      "name": "Performing Arts",
+      "category": "Events & Celebrations",
+      "description": "Two masks, one depicting comedy and the other tragedy.",
+      "keywords": ["performing arts", "theater", "drama", "comedy", "tragedy"]
+    },
+    {
+      "unicode": "🖼️",
+      "name": "Framed Picture",
+      "category": "Events & Celebrations",
+      "description": "A framed picture, showing a piece of art or a photograph.",
+      "keywords": ["framed picture", "art", "photograph", "painting"]
+    },
+    {
+      "unicode": "🎨",
+      "name": "Artist Palette",
+      "category": "Events & Celebrations",
+      "description": "A palette used by artists for mixing colors while painting.",
+      "keywords": ["artist palette", "painting", "art", "colors", "creativity"]
+    },
+    {
+      "unicode": "🎤",
+      "name": "Microphone",
+      "category": "Events & Celebrations",
+      "description": "A microphone, as used for public speaking or singing.",
+      "keywords": ["microphone", "music", "singing", "speech", "karaoke"]
+    },
+    {
+      "unicode": "🎧",
+      "name": "Headphone",
+      "category": "Events & Celebrations",
+      "description": "A pair of headphones, used to listen to music or other audio.",
+      "keywords": ["headphone", "music", "listening", "audio"]
+    },
+    {
+      "unicode": "📻",
+      "name": "Radio",
+      "category": "Events & Celebrations",
+      "description": "A classic radio receiver, used to listen to broadcasts or music.",
+      "keywords": ["radio", "broadcast", "music", "news", "communication"]
+    },
+    {
+      "unicode": "🎙️",
+      "name": "Studio Microphone",
+      "category": "Events & Celebrations",
+      "description": "A studio microphone, often used for recording vocals or instruments.",
+      "keywords": ["studio microphone", "music", "recording", "vocals", "instruments"]
+    },
+    {
+      "unicode": "🎚️",
+      "name": "Level Slider",
+      "category": "Events & Celebrations",
+      "description": "A control slider, used to adjust audio levels or settings.",
+      "keywords": ["level slider", "audio", "control", "settings"]
+    },
+    {
+      "unicode": "🎛️",
+      "name": "Control Knobs",
+      "category": "Events & Celebrations",
+      "description": "A set of control knobs, used to adjust audio or electronic settings.",
+      "keywords": ["control knobs", "audio", "settings", "electronic"]
+    },
+    {
+        "unicode": "⚽",
+        "name": "Soccer Ball",
+        "category": "Sports & Awards",
+        "description": "A black and white ball used in the game of soccer, also known as football in many countries.",
+        "keywords": ["soccer", "football", "ball", "sports", "game"]
+      },
+      {
+        "unicode": "🏀",
+        "name": "Basketball",
+        "category": "Sports & Awards",
+        "description": "An orange basketball, used in the game of basketball.",
+        "keywords": ["basketball", "sports", "game", "ball"]
+      },
+      {
+        "unicode": "🏈",
+        "name": "American Football",
+        "category": "Sports & Awards",
+        "description": "An American football, used in the sport of the same name.",
+        "keywords": ["american football", "football", "sports", "game", "ball"]
+      },
+      {
+        "unicode": "⚾",
+        "name": "Baseball",
+        "category": "Sports & Awards",
+        "description": "A white baseball with red stitching, used in the sport of baseball.",
+        "keywords": ["baseball", "sports", "game", "ball"]
+      },
+      {
+        "unicode": "🥎",
+        "name": "Softball",
+        "category": "Sports & Awards",
+        "description": "A yellow softball with red stitching, used in the sport of softball.",
+        "keywords": ["softball", "sports", "game", "ball"]
+      },
+      {
+        "unicode": "🎾",
+        "name": "Tennis",
+        "category": "Sports & Awards",
+        "description": "A yellow tennis ball, used in the sport of tennis.",
+        "keywords": ["tennis", "sports", "game", "ball"]
+      },
+      {
+        "unicode": "🏐",
+        "name": "Volleyball",
+        "category": "Sports & Awards",
+        "description": "A white volleyball with red stitching, used in the sport of volleyball.",
+        "keywords": ["volleyball", "sports", "game", "ball"]
+      },
+      {
+        "unicode": "🏉",
+        "name": "Rugby Football",
+        "category": "Sports & Awards",
+        "description": "A rugby football, used in the sport of rugby.",
+        "keywords": ["rugby football", "rugby", "sports", "game", "ball"]
+      },
+      {
+        "unicode": "🎱",
+        "name": "Pool 8 Ball",
+        "category": "Sports & Awards",
+        "description": "A black 8 ball, used in the game of pool.",
+        "keywords": ["pool", "8 ball", "billiards", "sports", "game", "ball"]
+      },
+      {
+        "unicode": "🪀",
+        "name": "Yo-Yo",
+        "category": "Sports & Awards",
+        "description": "A classic yo-yo toy with a string, used for various tricks.",
+        "keywords": ["yo-yo", "toy", "game", "fun"]
+      },
+      {
+        "unicode": "🏓",
+        "name": "Ping Pong",
+        "category": "Sports & Awards",
+        "description": "A ping pong paddle and ball, used in the game of table tennis.",
+        "keywords": ["ping pong", "table tennis", "sports", "game", "ball", "paddle"]
+      },
+      {
+        "unicode": "🏸",
+        "name": "Badminton",
+        "category": "Sports & Awards",
+        "description": "A shuttlecock and badminton racket, used in the sport of badminton.",
+        "keywords": ["badminton", "sports", "game", "shuttlecock", "racket"]
+      },
+      {
+        "unicode": "🥊",
+        "name": "Boxing Glove",
+        "category": "Sports & Awards",
+        "description": "A red boxing glove, used in the sport of boxing.",
+        "keywords": ["boxing", "boxing glove", "sports", "fight", "glove"]
+      },
+      {
+        "unicode": "🥋",
+        "name": "Martial Arts Uniform",
+        "category": "Sports & Awards",
+        "description": "A traditional martial arts uniform, consisting of a jacket, pants, and belt.",
+        "keywords": ["martial arts", "uniform", "sports", "judo", "karate"]
+      },
+      {
+        "unicode": "🛹",
+        "name": "Skateboard",
+        "category": "Sports & Awards",
+        "description": "A skateboard with red wheels, used for riding and performing tricks.",
+        "keywords": ["skateboard", "sports", "skate", "skateboarding", "tricks"]
+      },
+      {
+        "unicode": "🛼",
+        "name": "Roller Skate",
+        "category": "Sports & Awards",
+        "description": "A roller skate with four wheels, used for skating.",
+        "keywords": ["roller skate", "skate", "skating", "sports"]
+      },
+      {
+        "unicode": "🏆",
+        "name": "Trophy",
+        "category": "Sports & Awards",
+        "description": "A golden trophy, awarded as a recognition of achievement.",
+        "keywords": ["trophy", "award", "achievement", "win", "prize"]
+      },
+      {
+        "unicode": "🥇",
+        "name": "1st Place Medal",
+        "category": "Sports & Awards",
+        "description": "A gold medal, awarded for achieving first place.",
+        "keywords": ["medal", "gold", "1st place", "winner", "award"]
+      },
+      {
+        "unicode": "🥈",
+        "name": "2nd Place Medal",
+        "category": "Sports & Awards",
+        "description": "A silver medal, awarded for achieving second place.",
+        "keywords": ["medal", "silver", "2nd place", "runner-up", "award"]
+      },
+      {
+        "unicode": "🥉",
+        "name": "3rd Place Medal",
+        "category": "Sports & Awards",
+        "description": "A bronze medal, awarded for achieving third place.",
+        "keywords": ["medal", "bronze", "3rd place", "third place", "award"]
+      },
+      {
+        "unicode": "🏅",
+        "name": "Sports Medal",
+        "category": "Sports & Awards",
+        "description": "A medal, awarded for various sports achievements.",
+        "keywords": ["medal", "sports", "achievement", "award"]
+      },
+      {
+        "unicode": "🎖️",
+        "name": "Military Medal",
+        "category": "Sports & Awards",
+        "description": "A military medal, awarded for acts of bravery or service.",
+        "keywords": ["medal", "military", "bravery", "service", "award"]
+      },
+      {
+        "unicode": "🏵️",
+        "name": "Rosette",
+        "category": "Sports & Awards",
+        "description": "A decorative rosette, often awarded as a prize or recognition.",
+        "keywords": ["rosette", "award", "prize", "recognition"]
+      },
+      {
+        "unicode": "🎗️",
+        "name": "Reminder Ribbon",
+        "category": "Sports & Awards",
+        "description": "A ribbon, often used to raise awareness or show support for a cause.",
+        "keywords": ["ribbon", "reminder", "awareness", "support", "cause"]
+      },
+      {
+        "unicode": "🏷️",
+        "name": "Label",
+        "category": "Sports & Awards",
+        "description": "A label, often used for tagging or categorizing items.",
+        "keywords": ["label", "tag", "categorize", "identification"]
+      },
+      {
+        "unicode": "🎟️",
+        "name": "Admission Tickets",
+        "category": "Sports & Awards",
+        "description": "A pair of admission tickets, often used for entry to events or attractions.",
+        "keywords": ["tickets", "admission", "event", "attraction", "entry"]
+      },
+      {
+        "unicode": "🎫",
+        "name": "Ticket",
+        "category": "Sports & Awards",
+        "description": "A single admission ticket, often used for entry to events or attractions.",
+        "keywords": ["ticket", "admission", "event", "attraction", "entry"]
+      },
+      {
+        "unicode": "🎖️",
+        "name": "Military Medal",
+        "category": "Sports & Awards",
+        "description": "A military medal, awarded for acts of bravery or service.",
+        "keywords": ["medal", "military", "bravery", "service", "award"]
+      },
+      {
+        "unicode": "🏅",
+        "name": "Sports Medal",
+        "category": "Sports & Awards",
+        "description": "A medal, awarded for various sports achievements.",
+        "keywords": ["medal", "sports", "achievement", "award"]
+      },
+      {
+        "unicode": "🎖️",
+        "name": "Military Medal",
+        "category": "Sports & Awards",
+        "description": "A military medal, awarded for acts of bravery or service.",
+        "keywords": ["medal", "military", "bravery", "service", "award"]
+      },
+      {
+        "unicode": "🏅",
+        "name": "Sports Medal",
+        "category": "Sports & Awards",
+        "description": "A medal, awarded for various sports achievements.",
+        "keywords": ["medal", "sports", "achievement", "award"]
+      },
+      {
+        "unicode": "🎖️",
+        "name": "Military Medal",
+        "category": "Sports & Awards",
+        "description": "A military medal, awarded for acts of bravery or service.",
+        "keywords": ["medal", "military", "bravery", "service", "award"]
+      },
+      {
+        "unicode": "🏅",
+        "name": "Sports Medal",
+        "category": "Sports & Awards",
+        "description": "A medal, awarded for various sports achievements.",
+        "keywords": ["medal", "sports", "achievement", "award"]
+      },
+      {
+        "unicode": "🎖️",
+        "name": "Military Medal",
+        "category": "Sports & Awards",
+        "description": "A military medal, awarded for acts of bravery or service.",
+        "keywords": ["medal", "military", "bravery", "service", "award"]
+      },
+      {
+        "unicode": "🏅",
+        "name": "Sports Medal",
+        "category": "Sports & Awards",
+        "description": "A medal, awarded for various sports achievements.",
+        "keywords": ["medal", "sports", "achievement", "award"]
+      },
+      {
+        "unicode": "🎖️",
+        "name": "Military Medal",
+        "category": "Sports & Awards",
+        "description": "A military medal, awarded for acts of bravery or service.",
+        "keywords": ["medal", "military", "bravery", "service", "award"]
+      },
+      {
+        "unicode": "🏅",
+        "name": "Sports Medal",
+        "category": "Sports & Awards",
+        "description": "A medal, awarded for various sports achievements.",
+        "keywords": ["medal", "sports", "achievement", "award"]
+      },
+      {
+        "unicode": "🎖️",
+        "name": "Military Medal",
+        "category": "Sports & Awards",
+        "description": "A military medal, awarded for acts of bravery or service.",
+        "keywords": ["medal", "military", "bravery", "service", "award"]
+      },
+      {
+        "unicode": "🏅",
+        "name": "Sports Medal",
+        "category": "Sports & Awards",
+        "description": "A medal, awarded for various sports achievements.",
+        "keywords": ["medal", "sports", "achievement", "award"]
+      },
+      {
+        "unicode": "🎮",
+        "name": "Video Game",
+        "category": "Games & Culture",
+        "description": "A video game controller, as used to play console, computer, or arcade games.",
+        "keywords": ["game", "video game", "controller", "console", "play", "entertainment"]
+      },
+      {
+        "unicode": "🕹️",
+        "name": "Joystick",
+        "category": "Games & Culture",
+        "description": "A joystick, as used in playing classic arcade, computer, or video games.",
+        "keywords": ["game", "joystick", "arcade", "controller", "play"]
+      },
+      {
+        "unicode": "🎲",
+        "name": "Game Die",
+        "category": "Games & Culture",
+        "description": "A single die, used in a range of tabletop games.",
+        "keywords": ["game", "die", "dice", "play", "board game", "tabletop"]
+      },
+      {
+        "unicode": "🎯",
+        "name": "Direct Hit",
+        "category": "Games & Culture",
+        "description": "A target, as tied to a dartboard (used in the game of darts) or archery.",
+        "keywords": ["game", "target", "dart", "dartboard", "archery", "bullseye"]
+      },
+      {
+        "unicode": "🎳",
+        "name": "Bowling",
+        "category": "Games & Culture",
+        "description": "A bowling ball and bowling pins.",
+        "keywords": ["game", "bowling", "ball", "pins", "strike", "spare"]
+      },
+      {
+        "unicode": "🎰",
+        "name": "Slot Machine",
+        "category": "Games & Culture",
+        "description": "A gambling machine, generally found in casinos. Shows three wheels with a lever to the side.",
+        "keywords": ["game", "slot machine", "gambling", "casino", "luck"]
+      },
+      {
+        "unicode": "🎮",
+        "name": "Video Game",
+        "category": "Games & Culture",
+        "description": "A video game controller, as used to play console, computer, or arcade games.",
+        "keywords": ["game", "video game", "controller", "console", "play", "entertainment"]
+      },
+      {
+        "unicode": "🎰",
+        "name": "Slot Machine",
+        "category": "Games & Culture",
+        "description": "A gambling machine, generally found in casinos. Shows three wheels with a lever to the side.",
+        "keywords": ["game", "slot machine", "gambling", "casino", "luck"]
+      },
+      {
+        "unicode": "🃏",
+        "name": "Joker",
+        "category": "Games & Culture",
+        "description": "The joker in a deck of cards, often depicted as a court jester.",
+        "keywords": ["game", "joker", "playing card", "deck", "trick"]
+      },
+      {
+        "unicode": "🎲",
+        "name": "Game Die",
+        "category": "Games & Culture",
+        "description": "A single die, used in a range of tabletop games.",
+        "keywords": ["game", "die", "dice", "play", "board game", "tabletop"]
+      },
+      {
+        "unicode": "🎱",
+        "name": "Pool 8 Ball",
+        "category": "Games & Culture",
+        "description": "A black eight ball, used in billiards pool.",
+        "keywords": ["game", "pool", "8 ball", "billiards", "pool table"]
+      },
+      {
+        "unicode": "🎯",
+        "name": "Direct Hit",
+        "category": "Games & Culture",
+        "description": "A target, as tied to a dartboard (used in the game of darts) or archery.",
+        "keywords": ["game", "target", "dart", "dartboard", "archery", "bullseye"]
+      },
+      {
+        "unicode": "🀄",
+        "name": "Mahjong Red Dragon",
+        "category": "Games & Culture",
+        "description": "A tile with a red dragon emblem, commonly associated with the game of Mahjong.",
+        "keywords": ["game", "mahjong", "tile", "chinese", "dragon"]
+      },
+      {
+        "unicode": "🎱",
+        "name": "Pool 8 Ball",
+        "category": "Games & Culture",
+        "description": "A black eight ball, used in billiards pool.",
+        "keywords": ["game", "pool", "8 ball", "billiards", "pool table"]
+      },
+      {
+        "unicode": "🎳",
+        "name": "Bowling",
+        "category": "Games & Culture",
+        "description": "A bowling ball and bowling pins.",
+        "keywords": ["game", "bowling", "ball", "pins", "strike", "spare"]
+      },
+      {
+        "unicode": "🎯",
+        "name": "Direct Hit",
+        "category": "Games & Culture",
+        "description": "A target, as tied to a dartboard (used in the game of darts) or archery.",
+        "keywords": ["game", "target", "dart", "dartboard", "archery", "bullseye"]
+      },
+      {
+        "unicode": "🎮",
+        "name": "Video Game",
+        "category": "Games & Culture",
+        "description": "A video game controller, as used to play console, computer, or arcade games.",
+        "keywords": ["game", "video game", "controller", "console", "play", "entertainment"]
+      },
+      {
+        "unicode": "🎳",
+        "name": "Bowling",
+        "category": "Games & Culture",
+        "description": "A bowling ball and bowling pins.",
+        "keywords": ["game", "bowling", "ball", "pins", "strike", "spare"]
+      },
+      {
+        "unicode": "🎮",
+        "name": "Video Game",
+        "category": "Games & Culture",
+        "description": "A video game controller, as used to play console, computer, or arcade games.",
+        "keywords": ["game", "video game", "controller", "console", "play", "entertainment"]
+      },
+      {
+        "unicode": "🎲",
+        "name": "Game Die",
+        "category": "Games & Culture",
+        "description": "A single die, used in a range of tabletop games.",
+        "keywords": ["game", "die", "dice", "play", "board game", "tabletop"]
+      },
+      {
+        "unicode": "🎮",
+        "name": "Video Game",
+        "category": "Games & Culture",
+        "description": "A video game controller, as used to play console, computer, or arcade games.",
+        "keywords": ["game", "video game", "controller", "console", "play", "entertainment"]
+      },
+      {
+        "unicode": "🎱",
+        "name": "Pool 8 Ball",
+        "category": "Games & Culture",
+        "description": "A black eight ball, used in billiards pool.",
+        "keywords": ["game", "pool", "8 ball", "billiards", "pool table"]
+      },
+      {
+        "unicode": "🎲",
+        "name": "Game Die",
+        "category": "Games & Culture",
+        "description": "A single die, used in a range of tabletop games.",
+        "keywords": ["game", "die", "dice", "play", "board game", "tabletop"]
+      },
+      {
+        "unicode": "🎮",
+        "name": "Video Game",
+        "category": "Games & Culture",
+        "description": "A video game controller, as used to play console, computer, or arcade games.",
+        "keywords": ["game", "video game", "controller", "console", "play", "entertainment"]
+      },
+      {
+        "unicode": "🎯",
+        "name": "Direct Hit",
+        "category": "Games & Culture",
+        "description": "A target, as tied to a dartboard (used in the game of darts) or archery.",
+        "keywords": ["game", "target", "dart", "dartboard", "archery", "bullseye"]
+      },
+      {
+        "unicode": "🎲",
+        "name": "Game Die",
+        "category": "Games & Culture",
+        "description": "A single die, used in a range of tabletop games.",
+        "keywords": ["game", "die", "dice", "play", "board game", "tabletop"]
+      },
+      {
+        "unicode": "🎳",
+        "name": "Bowling",
+        "category": "Games & Culture",
+        "description": "A bowling ball and bowling pins.",
+        "keywords": ["game", "bowling", "ball", "pins", "strike", "spare"]
+      },
+      {
+        "unicode": "🃏",
+        "name": "Joker",
+        "category": "Games & Culture",
+        "description": "The joker in a deck of cards, often depicted as a court jester.",
+        "keywords": ["game", "joker", "playing card", "deck", "trick"]
+      },
+      {
+        "unicode": "🎰",
+        "name": "Slot Machine",
+        "category": "Games & Culture",
+        "description": "A gambling machine, generally found in casinos. Shows three wheels with a lever to the side.",
+        "keywords": ["game", "slot machine", "gambling", "casino", "luck"]
+      },
+      {
+        "unicode": "🀄",
+        "name": "Mahjong Red Dragon",
+        "category": "Games & Culture",
+        "description": "A tile with a red dragon emblem, commonly associated with the game of Mahjong.",
+        "keywords": ["game", "mahjong", "tile", "chinese", "dragon"]
+      },
+      {
+        "unicode": "🎱",
+        "name": "Pool 8 Ball",
+        "category": "Games & Culture",
+        "description": "A black eight ball, used in billiards pool.",
+        "keywords": ["game", "pool", "8 ball", "billiards", "pool table"]
+      },
+      {
+        "unicode": "🃏",
+        "name": "Joker",
+        "category": "Games & Culture",
+        "description": "The joker in a deck of cards, often depicted as a court jester.",
+        "keywords": ["game", "joker", "playing card", "deck", "trick"]
+      },
+      {
+        "unicode": "🀄",
+        "name": "Mahjong Red Dragon",
+        "category": "Games & Culture",
+        "description": "A tile with a red dragon emblem, commonly associated with the game of Mahjong.",
+        "keywords": ["game", "mahjong", "tile", "chinese", "dragon"]
+      },
+      {
+        "unicode": "🎳",
+        "name": "Bowling",
+        "category": "Games & Culture",
+        "description": "A bowling ball and bowling pins.",
+        "keywords": ["game", "bowling", "ball", "pins", "strike", "spare"]
+      },
+      {
+        "unicode": "🌍",
+        "name": "Globe Showing Europe-Africa",
+        "category": "Maps & Geography",
+        "description": "A globe, showing the continents of Europe and Africa in green against blue ocean.",
+        "keywords": ["globe", "world", "earth", "international", "global"]
+      },
+      {
+        "unicode": "🌎",
+        "name": "Globe Showing Americas",
+        "category": "Maps & Geography",
+        "description": "A globe, showing the continents of North and South America in green against blue ocean.",
+        "keywords": ["globe", "world", "earth", "international", "global"]
+      },
+      {
+        "unicode": "🌏",
+        "name": "Globe Showing Asia-Australia",
+        "category": "Maps & Geography",
+        "description": "A globe, showing the continents of Asia and Australia in green against blue ocean.",
+        "keywords": ["globe", "world", "earth", "international", "global"]
+      },
+      {
+        "unicode": "🗺️",
+        "name": "World Map",
+        "category": "Maps & Geography",
+        "description": "A folded map of the world, showing an abstract representation of the continents and major bodies of water.",
+        "keywords": ["map", "world", "geography", "earth"]
+      },
+      {
+        "unicode": "🏔️",
+        "name": "Snow-Capped Mountain",
+        "category": "Maps & Geography",
+        "description": "A mountain with snow on the peak.",
+        "keywords": ["mountain", "snow", "cold", "peak", "summit"]
+      },
+      {
+        "unicode": "⛰️",
+        "name": "Mountain",
+        "category": "Maps & Geography",
+        "description": "A mountain with a rocky appearance.",
+        "keywords": ["mountain", "hill", "nature", "landscape"]
+      },
+      {
+        "unicode": "🌋",
+        "name": "Volcano",
+        "category": "Maps & Geography",
+        "description": "A volcano with lava erupting from the crater.",
+        "keywords": ["volcano", "eruption", "lava", "nature", "disaster"]
+      },
+      {
+        "unicode": "🗻",
+        "name": "Mount Fuji",
+        "category": "Maps & Geography",
+        "description": "An iconic Japanese mountain, Mt. Fuji, with snow on its peak.",
+        "keywords": ["mountain", "fuji", "japan", "nature", "landscape"]
+      },
+      {
+        "unicode": "🏕️",
+        "name": "Camping",
+        "category": "Maps & Geography",
+        "description": "A tent, nestled in the wilderness, used for camping.",
+        "keywords": ["camping", "outdoors", "tent", "nature"]
+      },
+      {
+        "unicode": "🏖️",
+        "name": "Beach with Umbrella",
+        "category": "Maps & Geography",
+        "description": "A sandy beach with an umbrella providing shade from the sun.",
+        "keywords": ["beach", "umbrella", "sand", "sea", "vacation"]
+      },
+      {
+        "unicode": "🏜️",
+        "name": "Desert",
+        "category": "Maps & Geography",
+        "description": "A barren desert landscape with sand dunes.",
+        "keywords": ["desert", "arid", "dry", "sand", "landscape"]
+      },
+      {
+        "unicode": "🏝️",
+        "name": "Desert Island",
+        "category": "Maps & Geography",
+        "description": "An island in the ocean, typically uninhabited and covered in sand.",
+        "keywords": ["island", "desert", "ocean", "tropical", "paradise"]
+      },
+      {
+        "unicode": "🏞️",
+        "name": "National Park",
+        "category": "Maps & Geography",
+        "description": "A scenic view of a national park, typically with mountains, trees, and a river.",
+        "keywords": ["park", "nature", "landscape", "outdoors"]
+      },
+      {
+        "unicode": "🏔️",
+        "name": "Snow-Capped Mountain",
+        "category": "Maps & Geography",
+        "description": "A mountain with snow on the peak.",
+        "keywords": ["mountain", "snow", "cold", "peak", "summit"]
+      },
+      {
+        "unicode": "⛰️",
+        "name": "Mountain",
+        "category": "Maps & Geography",
+        "description": "A mountain with a rocky appearance.",
+        "keywords": ["mountain", "hill", "nature", "landscape"]
+      },
+      {
+        "unicode": "🌋",
+        "name": "Volcano",
+        "category": "Maps & Geography",
+        "description": "A volcano with lava erupting from the crater.",
+        "keywords": ["volcano", "eruption", "lava", "nature", "disaster"]
+      },
+      {
+        "unicode": "🗻",
+        "name": "Mount Fuji",
+        "category": "Maps & Geography",
+        "description": "An iconic Japanese mountain, Mt. Fuji, with snow on its peak.",
+        "keywords": ["mountain", "fuji", "japan", "nature", "landscape"]
+      },
+      {
+        "unicode": "🏕️",
+        "name": "Camping",
+        "category": "Maps & Geography",
+        "description": "A tent, nestled in the wilderness, used for camping.",
+        "keywords": ["camping", "outdoors", "tent", "nature"]
+      },
+      {
+        "unicode": "🏖️",
+        "name": "Beach with Umbrella",
+        "category": "Maps & Geography",
+        "description": "A sandy beach with an umbrella providing shade from the sun.",
+        "keywords": ["beach", "umbrella", "sand", "sea", "vacation"]
+      },
+      {
+        "unicode": "🏜️",
+        "name": "Desert",
+        "category": "Maps & Geography",
+        "description": "A barren desert landscape with sand dunes.",
+        "keywords": ["desert", "arid", "dry", "sand", "landscape"]
+      },
+      {
+        "unicode": "🏝️",
+        "name": "Desert Island",
+        "category": "Maps & Geography",
+        "description": "An island in the ocean, typically uninhabited and covered in sand.",
+        "keywords": ["island", "desert", "ocean", "tropical", "paradise"]
+      },
+      {
+        "unicode": "🏠",
+        "name": "House",
+        "category": "Buildings & Places",
+        "description": "A house building, possibly a residential house.",
+        "keywords": ["building", "home", "house", "residential", "property"]
+      },
+      {
+        "unicode": "🏡",
+        "name": "House with Garden",
+        "category": "Buildings & Places",
+        "description": "A house building with a garden, possibly a residential house.",
+        "keywords": ["building", "home", "house", "residential", "property", "garden"]
+      },
+      {
+        "unicode": "🏢",
+        "name": "Office Building",
+        "category": "Buildings & Places",
+        "description": "A large office building, suitable for a large company.",
+        "keywords": ["building", "office", "corporate", "business"]
+      },
+      {
+        "unicode": "🏣",
+        "name": "Japanese Post Office",
+        "category": "Buildings & Places",
+        "description": "A Japanese post office building, with postal signs.",
+        "keywords": ["building", "post", "office", "japanese", "postal"]
+      },
+      {
+        "unicode": "🏤",
+        "name": "Post Office",
+        "category": "Buildings & Places",
+        "description": "A post office building, with postal signs.",
+        "keywords": ["building", "post", "office", "postal"]
+      },
+      {
+        "unicode": "🏥",
+        "name": "Hospital",
+        "category": "Buildings & Places",
+        "description": "A hospital building, showing a heart beat monitor on the side.",
+        "keywords": ["building", "hospital", "medical", "health", "healthcare"]
+      },
+      {
+        "unicode": "🏦",
+        "name": "Bank",
+        "category": "Buildings & Places",
+        "description": "A bank building, showing a dollar sign on the front.",
+        "keywords": ["building", "bank", "finance", "money", "business"]
+      },
+      {
+        "unicode": "🏨",
+        "name": "Hotel",
+        "category": "Buildings & Places",
+        "description": "A hotel building, showing a bed and reception desk.",
+        "keywords": ["building", "hotel", "accommodation", "travel", "lodging"]
+      },
+      {
+        "unicode": "🏩",
+        "name": "Love Hotel",
+        "category": "Buildings & Places",
+        "description": "A love hotel building, showing a heart decoration on the front.",
+        "keywords": ["building", "love", "hotel", "accommodation", "travel", "lodging"]
+      },
+      {
+        "unicode": "🏪",
+        "name": "Convenience Store",
+        "category": "Buildings & Places",
+        "description": "A convenience store building, showing a shop front.",
+        "keywords": ["building", "convenience", "store", "shop", "retail"]
+      },
+      {
+        "unicode": "🏫",
+        "name": "School",
+        "category": "Buildings & Places",
+        "description": "A school building, showing windows and a bell.",
+        "keywords": ["building", "school", "education", "learning", "classroom"]
+      },
+      {
+        "unicode": "🏬",
+        "name": "Department Store",
+        "category": "Buildings & Places",
+        "description": "A department store building, showing a shop front.",
+        "keywords": ["building", "department store", "shop", "retail", "shopping"]
+      },
+      {
+        "unicode": "🏭",
+        "name": "Factory",
+        "category": "Buildings & Places",
+        "description": "A factory building, showing chimneys and machinery.",
+        "keywords": ["building", "factory", "industrial", "manufacturing"]
+      },
+      {
+        "unicode": "🏰",
+        "name": "Castle",
+        "category": "Buildings & Places",
+        "description": "A castle building, showing turrets and a gate.",
+        "keywords": ["building", "castle", "fortress", "medieval", "royalty"]
+      },
+      {
+        "unicode": "💒",
+        "name": "Wedding",
+        "category": "Buildings & Places",
+        "description": "A wedding building, showing a heart decoration on the front.",
+        "keywords": ["wedding", "marriage", "building", "love"]
+      },
+      {
+        "unicode": "🏟️",
+        "name": "Stadium",
+        "category": "Buildings & Places",
+        "description": "A stadium building, showing seating and a field.",
+        "keywords": ["stadium", "building", "sports", "venue", "arena"]
+      },
+      {
+        "unicode": "🏛️",
+        "name": "Classical Building",
+        "category": "Buildings & Places",
+        "description": "A classical building, showing columns and pediments.",
+        "keywords": ["building", "classical", "ancient", "architecture"]
+      },
+      {
+        "unicode": "⛪",
+        "name": "Church",
+        "category": "Buildings & Places",
+        "description": "A church building, showing a cross on the top.",
+        "keywords": ["church", "religion", "christian", "building"]
+      },
+      {
+        "unicode": "🕌",
+        "name": "Mosque",
+        "category": "Buildings & Places",
+        "description": "A mosque building, showing domes and minarets.",
+        "keywords": ["mosque", "islam", "religion", "building"]
+      },
+      {
+        "unicode": "🕍",
+        "name": "Synagogue",
+        "category": "Buildings & Places",
+        "description": "A synagogue building, showing a Star of David on the front.",
+        "keywords": ["synagogue", "judaism", "religion", "building"]
+      },
+      {
+        "unicode": "🏢",
+        "name": "Office Building",
+        "category": "Buildings & Places",
+        "description": "A large office building, suitable for a large company.",
+        "keywords": ["building", "office", "corporate", "business"]
+      },
+      {
+        "unicode": "🏣",
+        "name": "Japanese Post Office",
+        "category": "Buildings & Places",
+        "description": "A Japanese post office building, with postal signs.",
+        "keywords": ["building", "post", "office", "japanese", "postal"]
+      },
+      {
+        "unicode": "🏤",
+        "name": "Post Office",
+        "category": "Buildings & Places",
+        "description": "A post office building, with postal signs.",
+        "keywords": ["building", "post", "office", "postal"]
+      },
+      {
+        "unicode": "🏥",
+        "name": "Hospital",
+        "category": "Buildings & Places",
+        "description": "A hospital building, showing a heart beat monitor on the side.",
+        "keywords": ["building", "hospital", "medical", "health", "healthcare"]
+      },
+      {
+        "unicode": "🏦",
+        "name": "Bank",
+        "category": "Buildings & Places",
+        "description": "A bank building, showing a dollar sign on the front.",
+        "keywords": ["building", "bank", "finance", "money", "business"]
+      },
+      {
+        "unicode": "🏨",
+        "name": "Hotel",
+        "category": "Buildings & Places",
+        "description": "A hotel building, showing a bed and reception desk.",
+        "keywords": ["building", "hotel", "accommodation", "travel", "lodging"]
+      },
+      {
+        "unicode": "🏩",
+        "name": "Love Hotel",
+        "category": "Buildings & Places",
+        "description": "A love hotel building, showing a heart decoration on the front.",
+        "keywords": ["building", "love", "hotel", "accommodation", "travel", "lodging"]
+      },
+      {
+        "unicode": "🏪",
+        "name": "Convenience Store",
+        "category": "Buildings & Places",
+        "description": "A convenience store building, showing a shop front.",
+        "keywords": ["building", "convenience", "store", "shop", "retail"]
+      },
+      {
+        "unicode": "🏫",
+        "name": "School",
+        "category": "Buildings & Places",
+        "description": "A school building, showing windows and a bell.",
+        "keywords": ["building", "school", "education", "learning", "classroom"]
+      },
+      {
+        "unicode": "🏬",
+        "name": "Department Store",
+        "category": "Buildings & Places",
+        "description": "A department store building, showing a shop front.",
+        "keywords": ["building", "department store", "shop", "retail", "shopping"]
+      },
+      {
+        "unicode": "🏭",
+        "name": "Factory",
+        "category": "Buildings & Places",
+        "description": "A factory building, showing chimneys and machinery.",
+        "keywords": ["building", "factory", "industrial", "manufacturing"]
+      },
+      {
+        "unicode": "🏰",
+        "name": "Castle",
+        "category": "Buildings & Places",
+        "description": "A castle building, showing turrets and a gate.",
+        "keywords": ["building", "castle", "fortress", "medieval", "royalty"]
+      },
+      {
+        "unicode": "💒",
+        "name": "Wedding",
+        "category": "Buildings & Places",
+        "description": "A wedding building, showing a heart decoration on the front.",
+        "keywords": ["wedding", "marriage", "building", "love"]
+      },
+      {
+        "unicode": "🏟️",
+        "name": "Stadium",
+        "category": "Buildings & Places",
+        "description": "A stadium building, showing seating and a field.",
+        "keywords": ["stadium", "building", "sports", "venue", "arena"]
+      },
+      {
+        "unicode": "🏛️",
+        "name": "Classical Building",
+        "category": "Buildings & Places",
+        "description": "A classical building, showing columns and pediments.",
+        "keywords": ["building", "classical", "ancient", "architecture"]
+      },
+      {
+        "unicode": "⛪",
+        "name": "Church",
+        "category": "Buildings & Places",
+        "description": "A church building, showing a cross on the top.",
+        "keywords": ["church", "religion", "christian", "building"]
+      },
+      {
+        "unicode": "🕌",
+        "name": "Mosque",
+        "category": "Buildings & Places",
+        "description": "A mosque building, showing domes and minarets.",
+        "keywords": ["mosque", "islam", "religion", "building"]
+      },
+      {
+        "unicode": "🕍",
+        "name": "Synagogue",
+        "category": "Buildings & Places",
+        "description": "A synagogue building, showing a Star of David on the front.",
+        "keywords": ["synagogue", "judaism", "religion", "building"]
+      },
+      {
+        "unicode": "🚗",
+        "name": "Car",
+        "category": "Land Travel",
+        "description": "A typical car used for everyday transportation.",
+        "keywords": ["car", "vehicle", "transportation", "automobile", "drive"]
+      },
+      {
+        "unicode": "🚕",
+        "name": "Taxi",
+        "category": "Land Travel",
+        "description": "A yellow taxi used for transportation services.",
+        "keywords": ["taxi", "cab", "car", "vehicle", "transportation"]
+      },
+      {
+        "unicode": "🚙",
+        "name": "Sport Utility Vehicle",
+        "category": "Land Travel",
+        "description": "A sport utility vehicle (SUV) often used for off-road driving.",
+        "keywords": ["suv", "car", "vehicle", "transportation", "off-road"]
+      },
+      {
+        "unicode": "🚌",
+        "name": "Bus",
+        "category": "Land Travel",
+        "description": "A large bus used for public transportation of passengers.",
+        "keywords": ["bus", "vehicle", "transportation", "public", "passenger"]
+      },
+      {
+        "unicode": "🚎",
+        "name": "Trolleybus",
+        "category": "Land Travel",
+        "description": "A trolleybus used for public transportation with electric power supply from overhead wires.",
+        "keywords": ["trolleybus", "bus", "vehicle", "transportation", "public"]
+      },
+      {
+        "unicode": "🏎️",
+        "name": "Racing Car",
+        "category": "Land Travel",
+        "description": "A high-performance racing car used in motorsports.",
+        "keywords": ["car", "vehicle", "racing", "motorsport", "speed"]
+      },
+      {
+        "unicode": "🚓",
+        "name": "Police Car",
+        "category": "Land Travel",
+        "description": "A police car used by law enforcement agencies for patrol and response.",
+        "keywords": ["police", "car", "vehicle", "law enforcement", "patrol"]
+      },
+      {
+        "unicode": "🚑",
+        "name": "Ambulance",
+        "category": "Land Travel",
+        "description": "An ambulance used for emergency medical services.",
+        "keywords": ["ambulance", "emergency", "vehicle", "medical", "health"]
+      },
+      {
+        "unicode": "🚒",
+        "name": "Fire Engine",
+        "category": "Land Travel",
+        "description": "A fire engine used by firefighters to extinguish fires.",
+        "keywords": ["fire engine", "firetruck", "vehicle", "firefighter", "emergency"]
+      },
+      {
+        "unicode": "🚐",
+        "name": "Minibus",
+        "category": "Land Travel",
+        "description": "A small bus typically used for transporting small groups of people.",
+        "keywords": ["minibus", "bus", "vehicle", "transportation", "small group"]
+      },
+      {
+        "unicode": "🚚",
+        "name": "Delivery Truck",
+        "category": "Land Travel",
+        "description": "A truck used for delivering goods and cargo.",
+        "keywords": ["truck", "vehicle", "delivery", "cargo", "transportation"]
+      },
+      {
+        "unicode": "🚛",
+        "name": "Articulated Lorry",
+        "category": "Land Travel",
+        "description": "An articulated lorry, also known as a semi-trailer truck or tractor-trailer, used for transporting goods over long distances.",
+        "keywords": ["lorry", "truck", "vehicle", "transportation", "cargo"]
+      },
+      {
+        "unicode": "🚜",
+        "name": "Tractor",
+        "category": "Land Travel",
+        "description": "A tractor used primarily in agriculture for pulling or pushing agricultural machinery or trailers.",
+        "keywords": ["tractor", "agriculture", "farm", "vehicle"]
+      },
+      {
+        "unicode": "🦼",
+        "name": "Manual Wheelchair",
+        "category": "Land Travel",
+        "description": "A manual wheelchair used for mobility by people with physical disabilities.",
+        "keywords": ["wheelchair", "mobility", "disability", "accessibility", "medical"]
+      },
+      {
+        "unicode": "🦽",
+        "name": "Motorized Wheelchair",
+        "category": "Land Travel",
+        "description": "A motorized wheelchair used for mobility by people with physical disabilities.",
+        "keywords": ["wheelchair", "mobility", "disability", "accessibility", "medical"]
+      },
+      {
+        "unicode": "🛴",
+        "name": "Kick Scooter",
+        "category": "Land Travel",
+        "description": "A kick scooter used for personal transportation, typically propelled by pushing off the ground.",
+        "keywords": ["scooter", "kick scooter", "transportation", "personal", "urban"]
+      },
+      {
+        "unicode": "🚲",
+        "name": "Bicycle",
+        "category": "Land Travel",
+        "description": "A bicycle used for personal transportation, powered by pedaling.",
+        "keywords": ["bicycle", "bike", "transportation", "cycling", "exercise"]
+      },
+      {
+        "unicode": "🛵",
+        "name": "Motor Scooter",
+        "category": "Land Travel",
+        "description": "A motor scooter used for personal transportation, powered by an engine.",
+        "keywords": ["scooter", "motor scooter", "transportation", "personal", "urban"]
+      },
+      {
+        "unicode": "🏍️",
+        "name": "Motorcycle",
+        "category": "Land Travel",
+        "description": "A motorcycle used for personal transportation, powered by an engine.",
+        "keywords": ["motorcycle", "bike", "transportation", "motorbike", "speed"]
+      },
+      {
+        "unicode": "🛻",
+        "name": "Pickup Truck",
+        "category": "Land Travel",
+        "description": "A pickup truck used for transporting goods or passengers in the cargo area.",
+        "keywords": ["truck", "pickup", "vehicle", "transportation", "cargo"]
+      },
+      {
+        "unicode": "🚚",
+        "name": "Delivery Truck",
+        "category": "Land Travel",
+        "description": "A truck used for delivering goods and cargo.",
+        "keywords": ["truck", "vehicle", "delivery", "cargo", "transportation"]
+      },
+      {
+        "unicode": "🚝",
+        "name": "Monorail",
+        "category": "Land Travel",
+        "description": "A monorail train used for public transportation on a single rail track.",
+        "keywords": ["monorail", "train", "public", "transportation"]
+      },
+      {
+        "unicode": "🚞",
+        "name": "Mountain Railway",
+        "category": "Land Travel",
+        "description": "A mountain railway train used for transportation in mountainous areas.",
+        "keywords": ["mountain railway", "train", "mountainous", "transportation"]
+      },
+      {
+        "unicode": "🚆",
+        "name": "Train",
+        "category": "Land Travel",
+        "description": "A train used for public transportation of passengers and cargo.",
+        "keywords": ["train", "vehicle", "public", "transportation", "passenger", "cargo"]
+      },
+      {
+        "unicode": "🚄",
+        "name": "High-Speed Train",
+        "category": "Land Travel",
+        "description": "A high-speed train used for rapid transportation over long distances.",
+        "keywords": ["high-speed train", "train", "vehicle", "transportation", "speed"]
+      },
+      {
+        "unicode": "🚅",
+        "name": "Bullet Train",
+        "category": "Land Travel",
+        "description": "A bullet train used for high-speed transportation on dedicated rail tracks.",
+        "keywords": ["bullet train", "train", "vehicle", "transportation", "speed"]
+      },
+      {
+        "unicode": "🚈",
+        "name": "Light Rail",
+        "category": "Land Travel",
+        "description": "A light rail train used for urban public transportation on tram tracks.",
+        "keywords": ["light rail", "train", "vehicle", "public", "transportation", "urban"]
+      },
+      {
+        "unicode": "🚇",
+        "name": "Metro",
+        "category": "Land Travel",
+        "description": "A metro train used for underground or subway transportation in urban areas.",
+        "keywords": ["metro", "train", "vehicle", "public", "transportation", "subway"]
+      },
+      {
+        "unicode": "🚊",
+        "name": "Tram",
+        "category": "Land Travel",
+        "description": "A tram used for urban public transportation on tram tracks.",
+        "keywords": ["tram", "train", "vehicle", "public", "transportation", "urban"]
+      },
+      {
+        "unicode": "🚉",
+        "name": "Railway Station",
+        "category": "Land Travel",
+        "description": "A railway station where trains stop for passengers to get on or off.",
+        "keywords": ["railway station", "train", "public", "transportation"]
+      },
+      {
+        "unicode": "🚝",
+        "name": "Monorail",
+        "category": "Land Travel",
+        "description": "A monorail train used for public transportation on a single rail track.",
+        "keywords": ["monorail", "train", "public", "transportation"]
+      },
+      {
+        "unicode": "🛤️",
+        "name": "Railway Track",
+        "category": "Land Travel",
+        "description": "A railway track used for guiding trains and other rail vehicles.",
+        "keywords": ["railway track", "train", "railroad", "transportation"]
+      },
+      {
+        "unicode": "🛣️",
+        "name": "Motorway",
+        "category": "Land Travel",
+        "description": "A motorway or highway used for high-speed vehicular transportation between cities.",
+        "keywords": ["motorway", "highway", "road", "transportation", "vehicle"]
+      },
+      {
+        "unicode": "🗾",
+        "name": "Map of Japan",
+        "category": "Land Travel",
+        "description": "A map of Japan, representing the country's geography.",
+        "keywords": ["map", "japan", "geography", "country"]
+      },
+      {
+        "unicode": "🏞️",
+        "name": "National Park",
+        "category": "Land Travel",
+        "description": "A scenic landscape representing a national park.",
+        "keywords": ["national park", "park", "nature", "landscape"]
+      },
+      {
+        "unicode": "🌄",
+        "name": "Sunrise Over Mountains",
+        "category": "Land Travel",
+        "description": "A sunrise scene with mountains in the background.",
+        "keywords": ["sunrise", "mountains", "landscape", "scenery"]
+      },
+      {
+        "unicode": "🌅",
+        "name": "Sunrise",
+        "category": "Land Travel",
+        "description": "A sunrise scene with the sun rising above the horizon.",
+        "keywords": ["sunrise", "morning", "dawn"]
+      },
+      {
+        "unicode": "🌇",
+        "name": "Sunset",
+        "category": "Land Travel",
+        "description": "A sunset scene with the sun setting below the horizon.",
+        "keywords": ["sunset", "evening", "dusk"]
+      },
+      {
+        "unicode": "🌉",
+        "name": "Bridge at Night",
+        "category": "Land Travel",
+        "description": "A bridge at night with lights illuminating the structure.",
+        "keywords": ["bridge", "night", "lights", "urban"]
+      },
+      {
+        "unicode": "🏙️",
+        "name": "Cityscape",
+        "category": "Land Travel",
+        "description": "A cityscape with tall buildings and urban infrastructure.",
+        "keywords": ["cityscape", "city", "urban", "skyscrapers"]
+      },
+      {
+        "unicode": "🌆",
+        "name": "Cityscape at Dusk",
+        "category": "Land Travel",
+        "description": "A cityscape at dusk with buildings and lights.",
+        "keywords": ["cityscape", "city", "dusk", "urban", "lights"]
+      },
+      {
+        "unicode": "🏰",
+        "name": "Castle",
+        "category": "Land Travel",
+        "description": "A medieval castle with towers and walls.",
+        "keywords": ["castle", "medieval", "fortress", "kingdom"]
+      },
+      {
+        "unicode": "🏯",
+        "name": "Japanese Castle",
+        "category": "Land Travel",
+        "description": "A traditional Japanese castle with distinctive architecture.",
+        "keywords": ["japanese castle", "castle", "japan", "architecture"]
+      },
+      {
+        "unicode": "🏭",
+        "name": "Factory",
+        "category": "Land Travel",
+        "description": "A factory with smokestacks representing industrial activity.",
+        "keywords": ["factory", "industrial", "manufacturing", "industry"]
+      },
+      {
+        "unicode": "⛺",
+        "name": "Tent",
+        "category": "Land Travel",
+        "description": "A camping tent used for outdoor shelter.",
+        "keywords": ["tent", "camping", "outdoor", "shelter"]
+      },
+      {
+        "unicode": "🏕️",
+        "name": "Camping",
+        "category": "Land Travel",
+        "description": "A campsite with tents, representing outdoor camping.",
+        "keywords": ["camping", "campsite", "outdoor", "nature", "tent"]
+      },
+      {
+        "unicode": "🏔️",
+        "name": "Snow-Capped Mountain",
+        "category": "Land Travel",
+        "description": "A mountain peak covered with snow.",
+        "keywords": ["mountain", "snow", "winter", "cold"]
+      },
+      {
+        "unicode": "🗻",
+        "name": "Mount Fuji",
+        "category": "Land Travel",
+        "description": "A depiction of Mount Fuji, the highest mountain in Japan.",
+        "keywords": ["mount fuji", "mountain", "japan", "landscape"]
+      },
+      {
+        "unicode": "🏞️",
+        "name": "National Park",
+        "category": "Land Travel",
+        "description": "A scenic landscape representing a national park.",
+        "keywords": ["national park", "park", "nature", "landscape"]
+      },
+      {
+        "unicode": "🏖️",
+        "name": "Beach with Umbrella",
+        "category": "Land Travel",
+        "description": "A sandy beach with an umbrella for shade.",
+        "keywords": ["beach", "umbrella", "summer", "vacation", "sea"]
+      },
+      {
+        "unicode": "🏝️",
+        "name": "Desert Island",
+        "category": "Land Travel",
+        "description": "A tropical island in the ocean with palm trees and sand.",
+        "keywords": ["desert island", "island", "tropical", "paradise", "palm trees"]
+      },
+      {
+        "unicode": "✈️",
+        "name": "Airplane",
+        "category": "Air & Sea Travel",
+        "description": "An airplane, used for air travel.",
+        "keywords": ["airplane", "plane", "fly", "travel", "flight"]
+      },
+      {
+        "unicode": "🛫",
+        "name": "Airplane Departure",
+        "category": "Air & Sea Travel",
+        "description": "An airplane taking off for departure.",
+        "keywords": ["airplane", "plane", "fly", "travel", "departure", "takeoff"]
+      },
+      {
+        "unicode": "🛬",
+        "name": "Airplane Arrival",
+        "category": "Air & Sea Travel",
+        "description": "An airplane landing upon arrival.",
+        "keywords": ["airplane", "plane", "fly", "travel", "arrival", "landing"]
+      },
+      {
+        "unicode": "🚁",
+        "name": "Helicopter",
+        "category": "Air & Sea Travel",
+        "description": "A helicopter used for air travel or rescue missions.",
+        "keywords": ["helicopter", "chopper", "fly", "travel", "rescue"]
+      },
+      {
+        "unicode": "⛵",
+        "name": "Sailboat",
+        "category": "Air & Sea Travel",
+        "description": "A sailboat, used for recreational sailing or transportation.",
+        "keywords": ["sailboat", "sailing", "boat", "ship", "ocean", "sea"]
+      },
+      {
+        "unicode": "🛥️",
+        "name": "Motor Boat",
+        "category": "Air & Sea Travel",
+        "description": "A motorboat used for leisure or transportation on water.",
+        "keywords": ["motor boat", "boat", "ship", "water", "sea", "travel"]
+      },
+      {
+        "unicode": "🚤",
+        "name": "Speedboat",
+        "category": "Air & Sea Travel",
+        "description": "A speedboat used for recreational activities or transportation on water.",
+        "keywords": ["speedboat", "boat", "ship", "water", "sea", "travel"]
+      },
+      {
+        "unicode": "🛳️",
+        "name": "Passenger Ship",
+        "category": "Air & Sea Travel",
+        "description": "A passenger ship used for travel across bodies of water.",
+        "keywords": ["passenger ship", "ship", "boat", "travel", "sea", "ocean"]
+      },
+      {
+        "unicode": "⛴️",
+        "name": "Ferry",
+        "category": "Air & Sea Travel",
+        "description": "A ferry used to transport passengers and vehicles across bodies of water.",
+        "keywords": ["ferry", "ship", "boat", "travel", "sea", "ocean"]
+      },
+      {
+        "unicode": "🚢",
+        "name": "Ship",
+        "category": "Air & Sea Travel",
+        "description": "A large ship used for transportation of goods and passengers across bodies of water.",
+        "keywords": ["ship", "boat", "cargo", "travel", "sea", "ocean"]
+      },
+      {
+        "unicode": "🚀",
+        "name": "Rocket",
+        "category": "Air & Sea Travel",
+        "description": "A rocket used for space exploration or launching payloads into orbit.",
+        "keywords": ["rocket", "space", "launch", "explore", "spacecraft"]
+      },
+      {
+        "unicode": "🛸",
+        "name": "Flying Saucer",
+        "category": "Air & Sea Travel",
+        "description": "A flying saucer, often depicted as an extraterrestrial spacecraft.",
+        "keywords": ["flying saucer", "UFO", "alien", "space", "extraterrestrial"]
+      },
+      {
+        "unicode": "🚤",
+        "name": "Speedboat",
+        "category": "Air & Sea Travel",
+        "description": "A speedboat used for recreational activities or transportation on water.",
+        "keywords": ["speedboat", "boat", "ship", "water", "sea", "travel"]
+      },
+      {
+        "unicode": "🚁",
+        "name": "Helicopter",
+        "category": "Air & Sea Travel",
+        "description": "A helicopter used for air travel or rescue missions.",
+        "keywords": ["helicopter", "chopper", "fly", "travel", "rescue"]
+      },
+      {
+        "unicode": "🛶",
+        "name": "Canoe",
+        "category": "Air & Sea Travel",
+        "description": "A canoe, a small narrow boat typically propelled by one or more paddlers.",
+        "keywords": ["canoe", "boat", "paddle", "water", "lake", "river"]
+      },
+      {
+        "unicode": "🚤",
+        "name": "Speedboat",
+        "category": "Air & Sea Travel",
+        "description": "A speedboat used for recreational activities or transportation on water.",
+        "keywords": ["speedboat", "boat", "ship", "water", "sea", "travel"]
+      },
+      {
+        "unicode": "🛶",
+        "name": "Canoe",
+        "category": "Air & Sea Travel",
+        "description": "A canoe, a small narrow boat typically propelled by one or more paddlers.",
+        "keywords": ["canoe", "boat", "paddle", "water", "lake", "river"]
+      },
+      {
+        "unicode": "🚁",
+        "name": "Helicopter",
+        "category": "Air & Sea Travel",
+        "description": "A helicopter used for air travel or rescue missions.",
+        "keywords": ["helicopter", "chopper", "fly", "travel", "rescue"]
+      },
+      {
+        "unicode": "🚀",
+        "name": "Rocket",
+        "category": "Air & Sea Travel",
+        "description": "A rocket used for space exploration or launching payloads into orbit.",
+        "keywords": ["rocket", "space", "launch", "explore", "spacecraft"]
+      },
+      {
+        "unicode": "⛴️",
+        "name": "Ferry",
+        "category": "Air & Sea Travel",
+        "description": "A ferry used to transport passengers and vehicles across bodies of water.",
+        "keywords": ["ferry", "ship", "boat", "travel", "sea", "ocean"]
+      },
+      {
+        "unicode": "🚤",
+        "name": "Speedboat",
+        "category": "Air & Sea Travel",
+        "description": "A speedboat used for recreational activities or transportation on water.",
+        "keywords": ["speedboat", "boat", "ship", "water", "sea", "travel"]
+      },
+      {
+        "unicode": "🛸",
+        "name": "Flying Saucer",
+        "category": "Air & Sea Travel",
+        "description": "A flying saucer, often depicted as an extraterrestrial spacecraft.",
+        "keywords": ["flying saucer", "UFO", "alien", "space", "extraterrestrial"]
+      },
+      {
+        "unicode": "🚁",
+        "name": "Helicopter",
+        "category": "Air & Sea Travel",
+        "description": "A helicopter used for air travel or rescue missions.",
+        "keywords": ["helicopter", "chopper", "fly", "travel", "rescue"]
+      },
+      {
+        "unicode": "⛵",
+        "name": "Sailboat",
+        "category": "Air & Sea Travel",
+        "description": "A sailboat, used for recreational sailing or transportation.",
+        "keywords": ["sailboat", "sailing", "boat", "ship", "ocean", "sea"]
+      },
+      {
+        "unicode": "🚤",
+        "name": "Speedboat",
+        "category": "Air & Sea Travel",
+        "description": "A speedboat used for recreational activities or transportation on water.",
+        "keywords": ["speedboat", "boat", "ship", "water", "sea", "travel"]
+      },
+      {
+        "unicode": "🚀",
+        "name": "Rocket",
+        "category": "Air & Sea Travel",
+        "description": "A rocket used for space exploration or launching payloads into orbit.",
+        "keywords": ["rocket", "space", "launch", "explore", "spacecraft"]
+      },
+      {
+        "unicode": "🚁",
+        "name": "Helicopter",
+        "category": "Air & Sea Travel",
+        "description": "A helicopter used for air travel or rescue missions.",
+        "keywords": ["helicopter", "chopper", "fly", "travel", "rescue"]
+      },
+      {
+        "unicode": "🚤",
+        "name": "Speedboat",
+        "category": "Air & Sea Travel",
+        "description": "A speedboat used for recreational activities or transportation on water.",
+        "keywords": ["speedboat", "boat", "ship", "water", "sea", "travel"]
+      },
+      {
+        "unicode": "⛵",
+        "name": "Sailboat",
+        "category": "Air & Sea Travel",
+        "description": "A sailboat, used for recreational sailing or transportation.",
+        "keywords": ["sailboat", "sailing", "boat", "ship", "ocean", "sea"]
+      },
+      {
+        "unicode": "🚀",
+        "name": "Rocket",
+        "category": "Air & Sea Travel",
+        "description": "A rocket used for space exploration or launching payloads into orbit.",
+        "keywords": ["rocket", "space", "launch", "explore", "spacecraft"]
+      },
+      {
+        "unicode": "🚁",
+        "name": "Helicopter",
+        "category": "Air & Sea Travel",
+        "description": "A helicopter used for air travel or rescue missions.",
+        "keywords": ["helicopter", "chopper", "fly", "travel", "rescue"]
+      },
+      {
+        "unicode": "🚤",
+        "name": "Speedboat",
+        "category": "Air & Sea Travel",
+        "description": "A speedboat used for recreational activities or transportation on water.",
+        "keywords": ["speedboat", "boat", "ship", "water", "sea", "travel"]
+      },
+      {
+        "unicode": "⛴️",
+        "name": "Ferry",
+        "category": "Air & Sea Travel",
+        "description": "A ferry used to transport passengers and vehicles across bodies of water.",
+        "keywords": ["ferry", "ship", "boat", "travel", "sea", "ocean"]
+      },
+      {
+        "unicode": "⛵",
+        "name": "Sailboat",
+        "category": "Air & Sea Travel",
+        "description": "A sailboat, used for recreational sailing or transportation.",
+        "keywords": ["sailboat", "sailing", "boat", "ship", "ocean", "sea"]
+      },
+      {
+        "unicode": "🛸",
+        "name": "Flying Saucer",
+        "category": "Air & Sea Travel",
+        "description": "A flying saucer, often depicted as an extraterrestrial spacecraft.",
+        "keywords": ["flying saucer", "UFO", "alien", "space", "extraterrestrial"]
+      }
+  ]
+  
