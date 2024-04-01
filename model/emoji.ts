@@ -1,4 +1,4 @@
-import { model, Schema, Document } from "npm:mongoose@^6.7";
+import { model, Schema } from "npm:mongoose@^6.7";
 
 const emojiSchema  = new Schema({
     unicode : {
