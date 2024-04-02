@@ -48,6 +48,24 @@ The Emojipedia API is a RESTful API developed using Deno.js and MongoDB, allowin
 | PUT    | /emoji                | Update an existing emoji.             |
 | DELETE | /emoji                | Delete an emoji by its ID.            |
 
+# Unicode Categories Overview
+
+Unicode provides a categorization system for characters, organizing them into various categories based on their usage, characteristics, and properties. Understanding these categories can help in navigating the diverse range of characters supported by Unicode.
+
+## Overview of Categories
+
+| Category  | Description                                                                                         |
+|-----------|-----------------------------------------------------------------------------------------------------|
+| Objects   | Characters representing various tangible and abstract objects, including tools, symbols, and artifacts. |
+| Nature    | Characters representing elements and phenomena found in the natural world, such as weather symbols, plants, and celestial bodies. |
+| People    | Characters depicting human figures, faces, body parts, and activities, including emojis and pictograms. |
+| Smileys   | Characters representing facial expressions, emotions, gestures, and moods, commonly used in written communication. |
+| Animals   | Characters representing various animals, both real and mythical, including mammals, birds, reptiles, and insects. |
+
+## Understanding Unicode Categories
+
+For more information. Please feel free to visit this website. [Emojipedia](https://emojipedia.org/)
+
 ### Example
 
 #### Request
