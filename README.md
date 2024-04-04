@@ -23,30 +23,30 @@ The Emojipedia API is a RESTful API developed using Deno.js and MongoDB, allowin
     ```bash
     git clone https://github.com/thirukumaran05/Emojipedia.git
     ```
-
-2. Install dependencies:
+    
+2. Go to project folder:
 
     ```bash
-    deno install --allow-net --allow-read --unstable server.ts
+    cd project
     ```
 
 3. Start the server:
 
     ```bash
-    deno run --allow-net --allow-read --unstable server.ts
+    deno run --allow-env --allow-sys --allow-read --allow-net server.ts
     ```
 
 ## Usage
 
 ### Endpoints
 
-| Method | Endpoint              | Description                           |
-| ------ | --------------------- | ------------------------------------- |
-| GET    | /emoji                | Retrieve specific emoji               |
-| GET    | /random               | Get a random emoji.                   |
-| POST   | /emoji                | Add a new emoji.                      |
-| PUT    | /emoji                | Update an existing emoji.             |
-| DELETE | /emoji                | Delete an emoji by its ID.            |
+| Method | Endpoint                                         | Description                           |
+| ------ | ------------------------------------------------ | ------------------------------------- |
+| GET    | https://emojipedia.deno.dev/emoji                | Retrieve specific emoji               |
+| GET    | https://emojipedia.deno.dev/random               | Get a random emoji.                   |
+| POST   | https://emojipedia.deno.dev/emoji                | Add a new emoji.                      |
+| PUT    | https://emojipedia.deno.dev/emoji                | Update an existing emoji.             |
+| DELETE | https://emojipedia.deno.dev/emoji                | Delete an emoji by its ID.            |
 
 # Unicode Categories Overview
 
@@ -70,7 +70,7 @@ For more information. Please feel free to visit this website. [Emojipedia](https
 
 #### Request
 ```http
-GET /😁
+https://emojipedia.deno.dev/😁
 ```
 
 #### Response
