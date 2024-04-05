@@ -69,7 +69,7 @@ For more information. Please feel free to visit this website. [Emojipedia](https
 ### Example
 
 #### Request
-```http
+```bash
 https://emojipedia.deno.dev/😁
 ```
 
