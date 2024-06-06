@@ -1,7 +1,26 @@
 
 # Emojipedia API
 
-The Emojipedia API is a RESTful API developed using Deno.js and MongoDB, allowing users to access comprehensive information about emojis.
+If you've ever wondered about the meaning of an emoji, the Emojipedia API is the perfect tool for you. Emojipedia provides detailed information about each emoji, including its definition, usage, and related keywords. 
+
+### Example
+
+#### Request
+```bash
+https://emojipedia.deno.dev/😁
+```
+
+#### Response
+```http
+{
+      "unicode": "😁",
+      "name": "Beaming Face with Smiling Eyes",
+      "category": "Smileys & Emotion",
+      "description": "A yellow face with smiling eyes and full-toothed grin, as if saying Cheese! for the camera.",
+      "keywords": ["face", "smile", "happy", "joy", "grin", "cheese", "smiley", "haha"]
+}
+
+```
 
 ## Features
 
@@ -9,32 +28,6 @@ The Emojipedia API is a RESTful API developed using Deno.js and MongoDB, allowin
 - **Search**: Search for emojis by unicode.
 - **Random Emoji**: Get a random emoji from the database.
 - **Create, Update, Delete**: Perform CRUD operations on emojis.
-
-## Technologies Used
-
-- **Deno.js**: A secure runtime for JavaScript and TypeScript, providing a productive and secure environment for building server-side applications.
-- **MongoDB**: A NoSQL database, used for storing emoji data.
-- **Oak**: A middleware framework for Deno's http server.
-
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/thirukumaran05/Emojipedia.git
-    ```
-    
-2. Go to project folder:
-
-    ```bash
-    cd project
-    ```
-
-3. Start the server:
-
-    ```bash
-    deno run --allow-env --allow-sys --allow-read --allow-net server.ts
-    ```
 
 ## Usage
 
@@ -62,28 +55,32 @@ Unicode provides a categorization system for characters, organizing them into va
 | Smileys   | Characters representing facial expressions, emotions, gestures, and moods, commonly used in written communication. |
 | Animals   | Characters representing various animals, both real and mythical, including mammals, birds, reptiles, and insects. |
 
+
 ## Understanding Unicode Categories
 
 For more information. Please feel free to visit this website. [Emojipedia](https://emojipedia.org/)
 
-### Example
 
-#### Request
-```bash
-https://emojipedia.deno.dev/😁
-```
+## Installation
 
-#### Response
-```http
-{
-      "unicode": "😁",
-      "name": "Beaming Face with Smiling Eyes",
-      "category": "Smileys & Emotion",
-      "description": "A yellow face with smiling eyes and full-toothed grin, as if saying Cheese! for the camera.",
-      "keywords": ["face", "smile", "happy", "joy", "grin", "cheese", "smiley", "haha"]
-}
+1. Clone the repository:
 
-```
+    ```bash
+    git clone https://github.com/thirukumaran05/Emojipedia.git
+    ```
+    
+2. Go to project folder:
+
+    ```bash
+    cd project
+    ```
+
+3. Start the server:
+
+    ```bash
+    deno run --allow-env --allow-sys --allow-read --allow-net server.ts
+    ```
+
 
 ## Contributing
 

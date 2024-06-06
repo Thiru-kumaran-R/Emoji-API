@@ -1,5 +1,4 @@
 import { Context } from "https://deno.land/x/oak@14.2.0/context.ts";
-// import { ObjectId } from "npm:mongoose@^6.7";
 import { objectId } from "https://deno.land/x/objectid@0.2.0/mod.ts";
 import emojipedia from "../model/emoji.ts";
 
