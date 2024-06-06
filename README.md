@@ -21,7 +21,7 @@ The Emojipedia API is a RESTful API developed using Deno.js and MongoDB, allowin
 1. Clone the repository:
 
     ```bash
-   [ git clone https://github.com/Thiru-kumaran-R/Riddles-API.git
+    git clone https://github.com/Thiru-kumaran-R/Riddles-API.git
     ```
     
 2. Go to project folder:
