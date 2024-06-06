@@ -11,8 +11,8 @@ router.get('/:unicode', emojiController.getEmoji );
 
 router.post('/', validator, emojiController.postEmoji );
 
-router.patch('/:unicode', validator, emojiController.patchEmoji )
+router.patch('/:id', validator, emojiController.patchEmoji )
 
-router.delete('/:unicode', emojiController.deleteEmoji );
+router.delete('/:id', emojiController.deleteEmoji );
 
 export default router;
