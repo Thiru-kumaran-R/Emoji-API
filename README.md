@@ -7,7 +7,7 @@ If you've ever wondered about the meaning of an emoji, the Emojipedia API is the
 
 #### Request
 ```bash
-https://emojipedia.deno.dev/😁
+https://emoji-api.deno.dev/😁
 ```
 
 #### Response
@@ -35,11 +35,11 @@ https://emojipedia.deno.dev/😁
 
 | Method | Endpoint                                         | Description                           |
 | ------ | ------------------------------------------------ | ------------------------------------- |
-| GET    | https://emojipedia.deno.dev/emoji                | Retrieve specific emoji               |
-| GET    | https://emojipedia.deno.dev/random               | Get a random emoji.                   |
-| POST   | https://emojipedia.deno.dev/emoji                | Add a new emoji.                      |
-| PUT    | https://emojipedia.deno.dev/emoji                | Update an existing emoji.             |
-| DELETE | https://emojipedia.deno.dev/emoji                | Delete an emoji by its ID.            |
+| GET    | https://emoji-api.deno.dev/emoji                | Retrieve specific emoji               |
+| GET    | https://emoji-api.deno.dev/random               | Get a random emoji.                   |
+| POST   | https://emoji-api.deno.dev/emoji                | Add a new emoji.                      |
+| PUT    | https://emoji-api.deno.dev/emoji                | Update an existing emoji.             |
+| DELETE | https://emoji-api.deno.dev/emoji                | Delete an emoji by its ID.            |
 
 # Unicode Categories Overview
 
@@ -66,7 +66,7 @@ For more information. Please feel free to visit this website. [Emojipedia](https
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/thirukumaran05/Emojipedia.git
+    git clone https://github.com/thiru-kumaran-r/Emoji-API.git
     ```
     
 2. Go to project folder:
