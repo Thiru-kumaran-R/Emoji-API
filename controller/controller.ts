@@ -1,5 +1,5 @@
 import { Context } from "https://deno.land/x/oak@14.2.0/context.ts";
-import { objectId } from "https://deno.land/x/objectid@0.2.0/mod.ts";
+import { Bson } from "https://deno.land/x/mongo@v0.31.1/mod.ts";
 import emojipedia from "../model/emoji.ts";
 
 export const getEmoji = async (ctx: any) => {
@@ -62,8 +62,9 @@ export const postEmoji = async (ctx: Context) => {
           "Name, Description, Category, keywords of the corresponding emoji should be included.",
       });
     }
-    const { unicode, name, category, description, keywords } =
-      await ctx.request.body.json();
+    const { unicode, name, category, description, keywords } = await ctx.request.body.json();
+    console.log(unicode, name, category, description, keywords)
+
     const newEmoji = new emojipedia({
       unicode: unicode,
       name: name,
@@ -74,11 +75,7 @@ export const postEmoji = async (ctx: Context) => {
     await newEmoji.save();
     return (ctx.response.body = {
       id: newEmoji._id,
-      unicode: newEmoji.unicode,
-      name: newEmoji.name,
-      category: newEmoji.category,
-      description: newEmoji.description,
-      keywords: newEmoji.keywords,
+      message : "Emoji posted successfully",
       statusCode: 200,
     });
   } catch (err) {
@@ -93,7 +90,7 @@ export const deleteEmoji = async (ctx: any) => {
   try {
     const id = ctx.params.id;
     const deletedEmoji = await emojipedia.findOneAndRemove({
-      _id: objectId(id),
+      _id: new Bson.ObjectId(id),
     });
 
     if (deletedEmoji) {
@@ -124,8 +121,8 @@ export const patchEmoji = async (ctx: any) => {
     const { unicode, name, category, description, keywords } =
       await ctx.request.body.json();
     const tobeUpdatedUnicode = ctx.params.id;
-    const updatedUnicode = await emojipedia.findOneAndUpdate({
-      _id: objectId(tobeUpdatedUnicode),
+    const updatedUnicode = await emojipedia.findById({
+      _id: new Bson.ObjectId(tobeUpdatedUnicode),
     });
 
     if (!updatedUnicode) {
@@ -143,6 +140,7 @@ export const patchEmoji = async (ctx: any) => {
       updatedUnicode!.keywords = keywords;
     }
     await updatedUnicode!.save();
+    console.log(updatedUnicode);
 
     return (ctx.response.body = {
       id: tobeUpdatedUnicode,

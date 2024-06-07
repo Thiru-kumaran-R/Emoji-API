@@ -1,9 +1,13 @@
 import { Application } from "https://deno.land/x/oak@14.2.0/application.ts";
 import mongoose from "npm:mongoose@^6.7";
-
+import { load } from "https://deno.land/std@0.224.0/dotenv/mod.ts";
 import emojiRouter  from './routers/routers.ts';
 
+
 const app = new Application();
+const env = await load();
+const DB = env["_DB"];
+console.log(DB)
 
 app.use( async (ctx, next) => {
     ctx.response.headers.set('Access-Control-Allow-Origin', '*');
@@ -16,7 +20,7 @@ app.use(emojiRouter.routes());
 app.use(emojiRouter.allowedMethods())
 
 try{
-    await mongoose.connect('mongodb+srv://thiru:jjhtrF0HFn55rhrI@firstproject.27hr6ge.mongodb.net/emojis');
+    await mongoose.connect(DB);
     await app.listen( {port : 3000} )
 }
 catch (err) {

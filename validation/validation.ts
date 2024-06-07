@@ -2,7 +2,7 @@ import { z } from "https://deno.land/x/zod/mod.ts";
 import { ZodError } from "https://deno.land/x/zod@v3.22.4/ZodError.ts";
 
 const emojiQuestion = z.object({
-    unicode : z.string().trim().max(1).emoji(),
+    unicode : z.string().max(1).emoji(),
     name : z.string(),
     category : z.string(),
     description : z.string(),
