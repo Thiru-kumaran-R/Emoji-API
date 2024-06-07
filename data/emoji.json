@@ -1,0 +1,1095 @@
+[
+    {
+      "unicode": "👗",
+      "name": "Dress",
+      "category": "Clothing and Appearance",
+      "description": "A feminine dress or gown, generally worn by women or girls.",
+      "keywords": ["clothing", "dress", "fashion", "woman", "girl", "party"]
+    },
+    {
+      "unicode": "👔",
+      "name": "Necktie",
+      "category": "Clothing and Appearance",
+      "description": "A necktie commonly worn in formal occasions or professional settings.",
+      "keywords": ["clothing", "necktie", "tie", "formal", "professional", "business"]
+    },
+    {
+      "unicode": "👖",
+      "name": "Jeans",
+      "category": "Clothing and Appearance",
+      "description": "A pair of denim pants, typically worn casually.",
+      "keywords": ["clothing", "jeans", "pants", "denim", "casual"]
+    },
+    {
+      "unicode": "🧣",
+      "name": "Scarf",
+      "category": "Clothing and Appearance",
+      "description": "A long piece of cloth worn around the neck or head for warmth or fashion.",
+      "keywords": ["clothing", "scarf", "winter", "warmth", "fashion", "accessory"]
+    },
+    {
+      "unicode": "🧤",
+      "name": "Gloves",
+      "category": "Clothing and Appearance",
+      "description": "A pair of gloves worn on the hands for warmth or protection.",
+      "keywords": ["clothing", "gloves", "hands", "warmth", "protection"]
+    },
+    {
+      "unicode": "🧥",
+      "name": "Coat",
+      "category": "Clothing and Appearance",
+      "description": "A long outer garment worn to protect against the cold or rain.",
+      "keywords": ["clothing", "coat", "jacket", "outerwear", "winter", "rain"]
+    },
+    {
+      "unicode": "🧦",
+      "name": "Socks",
+      "category": "Clothing and Appearance",
+      "description": "A pair of socks worn on the feet.",
+      "keywords": ["clothing", "socks", "feet", "footwear", "warmth"]
+    },
+    {
+      "unicode": "👙",
+      "name": "Bikini",
+      "category": "Clothing and Appearance",
+      "description": "A two-piece swimsuit worn by women.",
+      "keywords": ["clothing", "bikini", "swimsuit", "beach", "pool"]
+    },
+    {
+      "unicode": "🩱",
+      "name": "One-Piece Swimsuit",
+      "category": "Clothing and Appearance",
+      "description": "A one-piece swimsuit worn by women.",
+      "keywords": ["clothing", "swimsuit", "beach", "pool"]
+    },
+    {
+      "unicode": "👠",
+      "name": "High-Heeled Shoe",
+      "category": "Clothing and Appearance",
+      "description": "A high-heeled shoe typically worn by women.",
+      "keywords": ["clothing", "shoe", "footwear", "heels", "fashion"]
+    },
+    {
+      "unicode": "👡",
+      "name": "Woman's Sandal",
+      "category": "Clothing and Appearance",
+      "description": "A sandal typically worn by women.",
+      "keywords": ["clothing", "sandal", "footwear", "summer", "fashion"]
+    },
+    {
+      "unicode": "🩲",
+      "name": "Briefs",
+      "category": "Clothing and Appearance",
+      "description": "A type of undergarment worn by men and boys.",
+      "keywords": ["clothing", "briefs", "underwear", "men", "boys"]
+    },
+    {
+      "unicode": "🩳",
+      "name": "Shorts",
+      "category": "Clothing and Appearance",
+      "description": "A pair of shorts worn as casual clothing.",
+      "keywords": ["clothing", "shorts", "casual", "summer"]
+    },
+    {
+      "unicode": "🧵",
+      "name": "Thread",
+      "category": "Clothing and Appearance",
+      "description": "A spool of thread used for sewing or stitching.",
+      "keywords": ["clothing", "thread", "sewing", "stitching"]
+    },
+    {
+      "unicode": "🧶",
+      "name": "Yarn",
+      "category": "Clothing and Appearance",
+      "description": "A skein of yarn used for knitting or crocheting.",
+      "keywords": ["clothing", "yarn", "knitting", "crocheting"]
+    },
+    {
+      "unicode": "🧥",
+      "name": "Coat",
+      "category": "Clothing and Appearance",
+      "description": "A long outer garment worn to protect against the cold or rain.",
+      "keywords": ["clothing", "coat", "jacket", "outerwear", "winter", "rain"]
+    },
+    {
+      "unicode": "🧦",
+      "name": "Socks",
+      "category": "Clothing and Appearance",
+      "description": "A pair of socks worn on the feet.",
+      "keywords": ["clothing", "socks", "feet", "footwear", "warmth"]
+    },
+    {
+      "unicode": "🎩",
+      "name": "Top Hat",
+      "category": "Clothing and Appearance",
+      "description": "A formal hat typically worn on special occasions.",
+      "keywords": ["clothing", "hat", "top hat", "formal", "occasion"]
+    },
+    {
+      "unicode": "🧢",
+      "name": "Baseball Cap",
+      "category": "Clothing and Appearance",
+      "description": "A casual cap worn by baseball players and others.",
+      "keywords": ["clothing", "cap", "baseball cap", "hat", "casual"]
+    },
+    {
+      "unicode": "🎓",
+      "name": "Graduation Cap",
+      "category": "Clothing and Appearance",
+      "description": "A traditional cap worn at graduation ceremonies.",
+      "keywords": ["clothing", "cap", "graduation cap", "hat", "ceremony", "education"]
+    },
+    {
+      "unicode": "👑",
+      "name": "Crown",
+      "category": "Clothing and Appearance",
+      "description": "A golden crown, often associated with royalty.",
+      "keywords": ["clothing", "crown", "royalty", "king", "queen", "prince", "princess"]
+    },
+    {
+      "unicode": "🧳",
+      "name": "Luggage",
+      "category": "Clothing and Appearance",
+      "description": "A suitcase or bag used for carrying clothes or other items while traveling.",
+      "keywords": ["clothing", "luggage", "suitcase", "travel", "bag"]
+    },
+    {
+      "unicode": "👒",
+      "name": "Woman's Hat",
+      "category": "Clothing and Appearance",
+      "description": "A decorative hat typically worn by women.",
+      "keywords": ["clothing", "hat", "woman's hat", "fashion", "accessory"]
+    },
+    {
+      "unicode": "🧵",
+      "name": "Thread",
+      "category": "Clothing and Appearance",
+      "description": "A spool of thread used for sewing or stitching.",
+      "keywords": ["clothing", "thread", "sewing", "stitching"]
+    },
+    {
+      "unicode": "🧶",
+      "name": "Yarn",
+      "category": "Clothing and Appearance",
+      "description": "A skein of yarn used for knitting or crocheting.",
+      "keywords": ["clothing", "yarn", "knitting", "crocheting"]
+    },
+    {
+      "unicode": "🪡",
+      "name": "Needle and Thread",
+      "category": "Clothing and Appearance",
+      "description": "A sewing needle and thread, used for sewing or stitching.",
+      "keywords": ["clothing", "needle", "thread", "sewing", "stitching"]
+    },
+    {
+      "unicode": "🧦",
+      "name": "Socks",
+      "category": "Clothing and Appearance",
+      "description": "A pair of socks worn on the feet.",
+      "keywords": ["clothing", "socks", "feet", "footwear", "warmth"]
+    },
+    {
+      "unicode": "🧥",
+      "name": "Coat",
+      "category": "Clothing and Appearance",
+      "description": "A long outer garment worn to protect against the cold or rain.",
+      "keywords": ["clothing", "coat", "jacket", "outerwear", "winter", "rain"]
+    },
+    {
+      "unicode": "🧣",
+      "name": "Scarf",
+      "category": "Clothing and Appearance",
+      "description": "A long piece of cloth worn around the neck or head for warmth or fashion.",
+      "keywords": ["clothing", "scarf", "winter", "warmth", "fashion", "accessory"]
+    },
+    {
+      "unicode": "🎩",
+      "name": "Top Hat",
+      "category": "Clothing and Appearance",
+      "description": "A formal hat typically worn on special occasions.",
+      "keywords": ["clothing", "hat", "top hat", "formal", "occasion"]
+    },
+    {
+      "unicode": "🧢",
+      "name": "Baseball Cap",
+      "category": "Clothing and Appearance",
+      "description": "A casual cap worn by baseball players and others.",
+      "keywords": ["clothing", "cap", "baseball cap", "hat", "casual"]
+    },
+    {
+      "unicode": "🎓",
+      "name": "Graduation Cap",
+      "category": "Clothing and Appearance",
+      "description": "A traditional cap worn at graduation ceremonies.",
+      "keywords": ["clothing", "cap", "graduation cap", "hat", "ceremony", "education"]
+    },
+    {
+      "unicode": "👑",
+      "name": "Crown",
+      "category": "Clothing and Appearance",
+      "description": "A golden crown, often associated with royalty.",
+      "keywords": ["clothing", "crown", "royalty", "king", "queen", "prince", "princess"]
+    },
+    {
+      "unicode": "👜",
+      "name": "Handbag",
+      "category": "Clothing and Appearance",
+      "description": "A small bag carried by women, typically used for carrying personal items.",
+      "keywords": ["clothing", "handbag", "purse", "bag", "fashion", "accessory"]
+    },
+    {
+      "unicode": "👒",
+      "name": "Woman's Hat",
+      "category": "Clothing and Appearance",
+      "description": "A decorative hat typically worn by women.",
+      "keywords": ["clothing", "hat", "woman's hat", "fashion", "accessory"]
+    },
+    {
+      "unicode": "🎒",
+      "name": "Backpack",
+      "category": "Clothing and Appearance",
+      "description": "A bag with shoulder straps, typically used for carrying items on one's back.",
+      "keywords": ["clothing", "backpack", "bag", "travel", "school", "hiking"]
+    },
+    {
+      "unicode": "🧦",
+      "name": "Socks",
+      "category": "Clothing and Appearance",
+      "description": "A pair of socks worn on the feet.",
+      "keywords": ["clothing", "socks", "feet", "footwear", "warmth"]
+    },
+    {
+      "unicode": "🧥",
+      "name": "Coat",
+      "category": "Clothing and Appearance",
+      "description": "A long outer garment worn to protect against the cold or rain.",
+      "keywords": ["clothing", "coat", "jacket", "outerwear", "winter", "rain"]
+    },
+    {
+      "unicode": "🧣",
+      "name": "Scarf",
+      "category": "Clothing and Appearance",
+      "description": "A long piece of cloth worn around the neck or head for warmth or fashion.",
+      "keywords": ["clothing", "scarf", "winter", "warmth", "fashion", "accessory"]
+    },
+    {
+      "unicode": "🎩",
+      "name": "Top Hat",
+      "category": "Clothing and Appearance",
+      "description": "A formal hat typically worn on special occasions.",
+      "keywords": ["clothing", "hat", "top hat", "formal", "occasion"]
+    },
+    {
+      "unicode": "🧢",
+      "name": "Baseball Cap",
+      "category": "Clothing and Appearance",
+      "description": "A casual cap worn by baseball players and others.",
+      "keywords": ["clothing", "cap", "baseball cap", "hat", "casual"]
+    },
+    {
+      "unicode": "🎓",
+      "name": "Graduation Cap",
+      "category": "Clothing and Appearance",
+      "description": "A traditional cap worn at graduation ceremonies.",
+      "keywords": ["clothing", "cap", "graduation cap", "hat", "ceremony", "education"]
+    },
+    {
+      "unicode": "👑",
+      "name": "Crown",
+      "category": "Clothing and Appearance",
+      "description": "A golden crown, often associated with royalty.",
+      "keywords": ["clothing", "crown", "royalty", "king", "queen", "prince", "princess"]
+    },
+    {
+        "unicode": "🎵",
+        "name": "Musical Note",
+        "category": "Music and Sound",
+        "description": "A single musical note emoji, used to represent music or sound.",
+        "keywords": ["music", "sound", "note", "melody", "song"]
+      },
+      {
+        "unicode": "🎶",
+        "name": "Musical Notes",
+        "category": "Music and Sound",
+        "description": "Two or more musical notes emoji, used to represent music or sound.",
+        "keywords": ["music", "sound", "notes", "melody", "song"]
+      },
+      {
+        "unicode": "🎼",
+        "name": "Musical Score",
+        "category": "Music and Sound",
+        "description": "A musical score emoji, used to represent sheet music or composition.",
+        "keywords": ["music", "sound", "score", "composition", "sheet music"]
+      },
+      {
+        "unicode": "🎤",
+        "name": "Microphone",
+        "category": "Music and Sound",
+        "description": "A microphone emoji, used to represent recording, singing, or audio input.",
+        "keywords": ["music", "sound", "microphone", "sing", "recording", "audio"]
+      },
+      {
+        "unicode": "🎧",
+        "name": "Headphone",
+        "category": "Music and Sound",
+        "description": "A headphone emoji, used to represent listening to audio or music.",
+        "keywords": ["music", "sound", "headphone", "listen", "audio"]
+      },
+      {
+        "unicode": "📻",
+        "name": "Radio",
+        "category": "Music and Sound",
+        "description": "A radio emoji, used to represent radio broadcasting or old-fashioned radios.",
+        "keywords": ["music", "sound", "radio", "broadcast", "broadcasting"]
+      },
+      {
+        "unicode": "🎷",
+        "name": "Saxophone",
+        "category": "Music and Sound",
+        "description": "A saxophone emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "saxophone", "instrument", "jazz"]
+      },
+      {
+        "unicode": "🎺",
+        "name": "Trumpet",
+        "category": "Music and Sound",
+        "description": "A trumpet emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "trumpet", "instrument", "brass"]
+      },
+      {
+        "unicode": "🎸",
+        "name": "Guitar",
+        "category": "Music and Sound",
+        "description": "A guitar emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "guitar", "instrument", "rock"]
+      },
+      {
+        "unicode": "🎻",
+        "name": "Violin",
+        "category": "Music and Sound",
+        "description": "A violin emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "violin", "instrument", "string"]
+      },
+      {
+        "unicode": "🥁",
+        "name": "Drum",
+        "category": "Music and Sound",
+        "description": "A drum emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "drum", "instrument", "percussion"]
+      },
+      {
+        "unicode": "🎹",
+        "name": "Musical Keyboard",
+        "category": "Music and Sound",
+        "description": "A musical keyboard emoji, used to represent the electronic keyboard instrument.",
+        "keywords": ["music", "sound", "keyboard", "instrument", "piano"]
+      },
+      {
+        "unicode": "🎼",
+        "name": "Musical Score",
+        "category": "Music and Sound",
+        "description": "A musical score emoji, used to represent sheet music or composition.",
+        "keywords": ["music", "sound", "score", "composition", "sheet music"]
+      },
+      {
+        "unicode": "🎵",
+        "name": "Musical Note",
+        "category": "Music and Sound",
+        "description": "A single musical note emoji, used to represent music or sound.",
+        "keywords": ["music", "sound", "note", "melody", "song"]
+      },
+      {
+        "unicode": "🎶",
+        "name": "Musical Notes",
+        "category": "Music and Sound",
+        "description": "Two or more musical notes emoji, used to represent music or sound.",
+        "keywords": ["music", "sound", "notes", "melody", "song"]
+      },
+      {
+        "unicode": "🎤",
+        "name": "Microphone",
+        "category": "Music and Sound",
+        "description": "A microphone emoji, used to represent recording, singing, or audio input.",
+        "keywords": ["music", "sound", "microphone", "sing", "recording", "audio"]
+      },
+      {
+        "unicode": "🎧",
+        "name": "Headphone",
+        "category": "Music and Sound",
+        "description": "A headphone emoji, used to represent listening to audio or music.",
+        "keywords": ["music", "sound", "headphone", "listen", "audio"]
+      },
+      {
+        "unicode": "📻",
+        "name": "Radio",
+        "category": "Music and Sound",
+        "description": "A radio emoji, used to represent radio broadcasting or old-fashioned radios.",
+        "keywords": ["music", "sound", "radio", "broadcast", "broadcasting"]
+      },
+      {
+        "unicode": "🎷",
+        "name": "Saxophone",
+        "category": "Music and Sound",
+        "description": "A saxophone emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "saxophone", "instrument", "jazz"]
+      },
+      {
+        "unicode": "🎺",
+        "name": "Trumpet",
+        "category": "Music and Sound",
+        "description": "A trumpet emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "trumpet", "instrument", "brass"]
+      },
+      {
+        "unicode": "🎸",
+        "name": "Guitar",
+        "category": "Music and Sound",
+        "description": "A guitar emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "guitar", "instrument", "rock"]
+      },
+      {
+        "unicode": "🎻",
+        "name": "Violin",
+        "category": "Music and Sound",
+        "description": "A violin emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "violin", "instrument", "string"]
+      },
+      {
+        "unicode": "🥁",
+        "name": "Drum",
+        "category": "Music and Sound",
+        "description": "A drum emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "drum", "instrument", "percussion"]
+      },
+      {
+        "unicode": "🎹",
+        "name": "Musical Keyboard",
+        "category": "Music and Sound",
+        "description": "A musical keyboard emoji, used to represent the electronic keyboard instrument.",
+        "keywords": ["music", "sound", "keyboard", "instrument", "piano"]
+      },
+      {
+        "unicode": "🎼",
+        "name": "Musical Score",
+        "category": "Music and Sound",
+        "description": "A musical score emoji, used to represent sheet music or composition.",
+        "keywords": ["music", "sound", "score", "composition", "sheet music"]
+      },
+      {
+        "unicode": "🎵",
+        "name": "Musical Note",
+        "category": "Music and Sound",
+        "description": "A single musical note emoji, used to represent music or sound.",
+        "keywords": ["music", "sound", "note", "melody", "song"]
+      },
+      {
+        "unicode": "🎶",
+        "name": "Musical Notes",
+        "category": "Music and Sound",
+        "description": "Two or more musical notes emoji, used to represent music or sound.",
+        "keywords": ["music", "sound", "notes", "melody", "song"]
+      },
+      {
+        "unicode": "🎤",
+        "name": "Microphone",
+        "category": "Music and Sound",
+        "description": "A microphone emoji, used to represent recording, singing, or audio input.",
+        "keywords": ["music", "sound", "microphone", "sing", "recording", "audio"]
+      },
+      {
+        "unicode": "🎧",
+        "name": "Headphone",
+        "category": "Music and Sound",
+        "description": "A headphone emoji, used to represent listening to audio or music.",
+        "keywords": ["music", "sound", "headphone", "listen", "audio"]
+      },
+      {
+        "unicode": "📻",
+        "name": "Radio",
+        "category": "Music and Sound",
+        "description": "A radio emoji, used to represent radio broadcasting or old-fashioned radios.",
+        "keywords": ["music", "sound", "radio", "broadcast", "broadcasting"]
+      },
+      {
+        "unicode": "🎷",
+        "name": "Saxophone",
+        "category": "Music and Sound",
+        "description": "A saxophone emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "saxophone", "instrument", "jazz"]
+      },
+      {
+        "unicode": "🎺",
+        "name": "Trumpet",
+        "category": "Music and Sound",
+        "description": "A trumpet emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "trumpet", "instrument", "brass"]
+      },
+      {
+        "unicode": "🎸",
+        "name": "Guitar",
+        "category": "Music and Sound",
+        "description": "A guitar emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "guitar", "instrument", "rock"]
+      },
+      {
+        "unicode": "🎻",
+        "name": "Violin",
+        "category": "Music and Sound",
+        "description": "A violin emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "violin", "instrument", "string"]
+      },
+      {
+        "unicode": "🥁",
+        "name": "Drum",
+        "category": "Music and Sound",
+        "description": "A drum emoji, used to represent the musical instrument.",
+        "keywords": ["music", "sound", "drum", "instrument", "percussion"]
+      },
+      {
+        "unicode": "🎹",
+        "name": "Musical Keyboard",
+        "category": "Music and Sound",
+        "description": "A musical keyboard emoji, used to represent the electronic keyboard instrument.",
+        "keywords": ["music", "sound", "keyboard", "instrument", "piano"]
+      },
+      {
+        "unicode": "💻",
+        "name": "Laptop Computer",
+        "category": "IT & AV",
+        "description": "A laptop personal computer, used for a variety of purposes including productivity, browsing the internet, and gaming.",
+        "keywords": ["computer", "laptop", "pc", "mac", "keyboard", "screen"]
+      },
+      {
+        "unicode": "🖥️",
+        "name": "Desktop Computer",
+        "category": "IT & AV",
+        "description": "A desktop personal computer, used for a variety of purposes including productivity, gaming, and programming.",
+        "keywords": ["computer", "desktop", "pc", "mac", "keyboard", "screen"]
+      },
+      {
+        "unicode": "🖱️",
+        "name": "Computer Mouse",
+        "category": "IT & AV",
+        "description": "A computer mouse, used to control the cursor on a computer screen.",
+        "keywords": ["computer", "mouse", "click", "pointer"]
+      },
+      {
+        "unicode": "🖨️",
+        "name": "Printer",
+        "category": "IT & AV",
+        "description": "A printer, used to produce physical copies of digital documents.",
+        "keywords": ["printer", "print", "document", "paper"]
+      },
+      {
+        "unicode": "🖱️",
+        "name": "Computer Mouse",
+        "category": "IT & AV",
+        "description": "A computer mouse, used to control the cursor on a computer screen.",
+        "keywords": ["computer", "mouse", "click", "pointer"]
+      },
+      {
+        "unicode": "🖨️",
+        "name": "Printer",
+        "category": "IT & AV",
+        "description": "A printer, used to produce physical copies of digital documents.",
+        "keywords": ["printer", "print", "document", "paper"]
+      },
+      {
+        "unicode": "⌨️",
+        "name": "Keyboard",
+        "category": "IT & AV",
+        "description": "A computer keyboard, used to input text and commands into a computer.",
+        "keywords": ["keyboard", "computer", "type", "input", "text"]
+      },
+      {
+        "unicode": "💽",
+        "name": "Computer Disk",
+        "category": "IT & AV",
+        "description": "A computer disk, used to store digital data.",
+        "keywords": ["computer", "disk", "storage", "data", "save"]
+      },
+      {
+        "unicode": "💾",
+        "name": "Floppy Disk",
+        "category": "IT & AV",
+        "description": "A floppy disk, used for data storage in the 80s and 90s.",
+        "keywords": ["floppy disk", "disk", "storage", "data", "save"]
+      },
+      {
+        "unicode": "💿",
+        "name": "Optical Disk",
+        "category": "IT & AV",
+        "description": "An optical disk, used for storing digital data.",
+        "keywords": ["optical disk", "disk", "storage", "data", "save"]
+      },
+      {
+        "unicode": "📀",
+        "name": "DVD",
+        "category": "IT & AV",
+        "description": "A digital versatile disc (DVD), used for storing and playing digital video content.",
+        "keywords": ["dvd", "disc", "movie", "video", "entertainment"]
+      },
+      {
+        "unicode": "🖲️",
+        "name": "Trackball",
+        "category": "IT & AV",
+        "description": "A trackball, used as an input device to control the cursor on a computer screen.",
+        "keywords": ["trackball", "mouse", "input", "control", "cursor"]
+      },
+      {
+        "unicode": "🎥",
+        "name": "Movie Camera",
+        "category": "IT & AV",
+        "description": "A movie camera, used to film motion pictures.",
+        "keywords": ["movie camera", "camera", "film", "movie", "video", "cinema"]
+      },
+      {
+        "unicode": "📷",
+        "name": "Camera",
+        "category": "IT & AV",
+        "description": "A digital camera, used to capture photographs.",
+        "keywords": ["camera", "photo", "picture", "photograph", "image"]
+      },
+      {
+        "unicode": "📹",
+        "name": "Video Camera",
+        "category": "IT & AV",
+        "description": "A video camera, used to capture video footage.",
+        "keywords": ["video camera", "camera", "film", "movie", "video", "record"]
+      },
+      {
+        "unicode": "📼",
+        "name": "Videocassette",
+        "category": "IT & AV",
+        "description": "A videocassette, used for recording and playing back video content.",
+        "keywords": ["videocassette", "vhs", "tape", "video", "record", "play"]
+      },
+      {
+        "unicode": "🔊",
+        "name": "Speaker High Volume",
+        "category": "IT & AV",
+        "description": "A speaker with high volume, used for playing audio content at a loud volume.",
+        "keywords": ["speaker", "audio", "sound", "volume", "loud"]
+      },
+      {
+        "unicode": "📢",
+        "name": "Loudspeaker",
+        "category": "IT & AV",
+        "description": "A loudspeaker, used for amplifying and projecting audio content.",
+        "keywords": ["loudspeaker", "speaker", "announcement", "public address"]
+      },
+      {
+        "unicode": "📣",
+        "name": "Megaphone",
+        "category": "IT & AV",
+        "description": "A megaphone, used for projecting the voice over a long distance.",
+        "keywords": ["megaphone", "loud", "announcement", "shout"]
+      },
+      {
+        "unicode": "📻",
+        "name": "Radio",
+        "category": "IT & AV",
+        "description": "A radio receiver, used for receiving and playing broadcast audio content.",
+        "keywords": ["radio", "broadcast", "receiver", "music", "news"]
+      },
+      {
+        "unicode": "🎙️",
+        "name": "Studio Microphone",
+        "category": "IT & AV",
+        "description": "A studio microphone, used for recording audio in a professional setting.",
+        "keywords": ["microphone", "studio", "recording", "audio"]
+      },
+      {
+        "unicode": "🎚️",
+        "name": "Level Slider",
+        "category": "IT & AV",
+        "description": "A level slider, used for adjusting the audio level.",
+        "keywords": ["level", "slider", "audio", "adjust", "control"]
+      },
+      {
+        "unicode": "🎛️",
+        "name": "Control Knobs",
+        "category": "IT & AV",
+        "description": "A set of control knobs, used for adjusting various audio settings.",
+        "keywords": ["control", "knobs", "audio", "adjust", "settings"]
+      },
+      {
+        "unicode": "⏯️",
+        "name": "Play or Pause Button",
+        "category": "IT & AV",
+        "description": "A button used for playing or pausing audio or video content.",
+        "keywords": ["play", "pause", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "⏸️",
+        "name": "Pause Button",
+        "category": "IT & AV",
+        "description": "A button used for pausing audio or video content.",
+        "keywords": ["pause", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "⏹️",
+        "name": "Stop Button",
+        "category": "IT & AV",
+        "description": "A button used for stopping audio or video playback.",
+        "keywords": ["stop", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "⏭️",
+        "name": "Next Track Button",
+        "category": "IT & AV",
+        "description": "A button used for skipping to the next track in a playlist.",
+        "keywords": ["next", "track", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "⏮️",
+        "name": "Previous Track Button",
+        "category": "IT & AV",
+        "description": "A button used for skipping to the previous track in a playlist.",
+        "keywords": ["previous", "track", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "🔀",
+        "name": "Shuffle Tracks Button",
+        "category": "IT & AV",
+        "description": "A button used for shuffling tracks in a playlist.",
+        "keywords": ["shuffle", "tracks", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "🔁",
+        "name": "Repeat Button",
+        "category": "IT & AV",
+        "description": "A button used for repeating a track or playlist.",
+        "keywords": ["repeat", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "🔂",
+        "name": "Repeat Single Button",
+        "category": "IT & AV",
+        "description": "A button used for repeating a single track.",
+        "keywords": ["repeat", "single", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "📡",
+        "name": "Satellite Antenna",
+        "category": "IT & AV",
+        "description": "A satellite antenna, used for receiving satellite signals.",
+        "keywords": ["satellite", "antenna", "communication", "broadcast", "signal"]
+      },
+      {
+        "unicode": "📺",
+        "name": "Television",
+        "category": "IT & AV",
+        "description": "A television set, used for watching broadcast or streaming television content.",
+        "keywords": ["television", "tv", "screen", "entertainment", "broadcast"]
+      },
+      {
+        "unicode": "🎚️",
+        "name": "Level Slider",
+        "category": "IT & AV",
+        "description": "A level slider, used for adjusting the audio level.",
+        "keywords": ["level", "slider", "audio", "adjust", "control"]
+      },
+      {
+        "unicode": "🎛️",
+        "name": "Control Knobs",
+        "category": "IT & AV",
+        "description": "A set of control knobs, used for adjusting various audio settings.",
+        "keywords": ["control", "knobs", "audio", "adjust", "settings"]
+      },
+      {
+        "unicode": "⏯️",
+        "name": "Play or Pause Button",
+        "category": "IT & AV",
+        "description": "A button used for playing or pausing audio or video content.",
+        "keywords": ["play", "pause", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "⏸️",
+        "name": "Pause Button",
+        "category": "IT & AV",
+        "description": "A button used for pausing audio or video content.",
+        "keywords": ["pause", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "⏹️",
+        "name": "Stop Button",
+        "category": "IT & AV",
+        "description": "A button used for stopping audio or video playback.",
+        "keywords": ["stop", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "⏭️",
+        "name": "Next Track Button",
+        "category": "IT & AV",
+        "description": "A button used for skipping to the next track in a playlist.",
+        "keywords": ["next", "track", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "⏮️",
+        "name": "Previous Track Button",
+        "category": "IT & AV",
+        "description": "A button used for skipping to the previous track in a playlist.",
+        "keywords": ["previous", "track", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "🔀",
+        "name": "Shuffle Tracks Button",
+        "category": "IT & AV",
+        "description": "A button used for shuffling tracks in a playlist.",
+        "keywords": ["shuffle", "tracks", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "🔁",
+        "name": "Repeat Button",
+        "category": "IT & AV",
+        "description": "A button used for repeating a track or playlist.",
+        "keywords": ["repeat", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "🔂",
+        "name": "Repeat Single Button",
+        "category": "IT & AV",
+        "description": "A button used for repeating a single track.",
+        "keywords": ["repeat", "single", "button", "audio", "video", "control"]
+      },
+      {
+        "unicode": "📡",
+        "name": "Satellite Antenna",
+        "category": "IT & AV",
+        "description": "A satellite antenna, used for receiving satellite signals.",
+        "keywords": ["satellite", "antenna", "communication", "broadcast", "signal"]
+      },
+      {
+        "unicode": "📺",
+        "name": "Television",
+        "category": "IT & AV",
+        "description": "A television set, used for watching broadcast or streaming television content.",
+        "keywords": ["television", "tv", "screen", "entertainment", "broadcast"]
+      },
+      {
+        "unicode": "📁",
+        "name": "File Folder",
+        "category": "Office and Stationary",
+        "description": "A folder used to organize documents.",
+        "keywords": ["folder", "file", "organization", "document", "office", "stationary"]
+      },
+      {
+        "unicode": "📂",
+        "name": "Open File Folder",
+        "category": "Office and Stationary",
+        "description": "An open folder used to organize documents.",
+        "keywords": ["folder", "file", "organization", "document", "office", "stationary", "open"]
+      },
+      {
+        "unicode": "🗂️",
+        "name": "Card Index Dividers",
+        "category": "Office and Stationary",
+        "description": "Card index dividers used for organizing information.",
+        "keywords": ["card", "index", "dividers", "organization", "information", "office", "stationary"]
+      },
+      {
+        "unicode": "📌",
+        "name": "Pushpin",
+        "category": "Office and Stationary",
+        "description": "A pushpin used to attach papers to a bulletin board or wall.",
+        "keywords": ["pushpin", "pin", "attachment", "bulletin board", "stationary", "office"]
+      },
+      {
+        "unicode": "📍",
+        "name": "Round Pushpin",
+        "category": "Office and Stationary",
+        "description": "A round pushpin used to mark a location on a map or document.",
+        "keywords": ["pushpin", "pin", "location", "mark", "map", "document", "stationary", "office"]
+      },
+      {
+        "unicode": "📎",
+        "name": "Paperclip",
+        "category": "Office and Stationary",
+        "description": "A paperclip used to hold multiple sheets of paper together.",
+        "keywords": ["paperclip", "clip", "paper", "attachment", "stationary", "office"]
+      },
+      {
+        "unicode": "🖇️",
+        "name": "Linked Paperclips",
+        "category": "Office and Stationary",
+        "description": "Linked paperclips used to hold multiple sheets of paper together.",
+        "keywords": ["paperclip", "clip", "paper", "attachment", "stationary", "office", "linked"]
+      },
+      {
+        "unicode": "📏",
+        "name": "Straight Ruler",
+        "category": "Office and Stationary",
+        "description": "A straight ruler used to measure distances or draw straight lines.",
+        "keywords": ["ruler", "straight", "measure", "distance", "line", "office", "stationary"]
+      },
+      {
+        "unicode": "📐",
+        "name": "Triangular Ruler",
+        "category": "Office and Stationary",
+        "description": "A triangular ruler used for technical drawing or measuring angles.",
+        "keywords": ["ruler", "triangular", "measure", "drawing", "angle", "office", "stationary"]
+      },
+      {
+        "unicode": "✂️",
+        "name": "Scissors",
+        "category": "Office and Stationary",
+        "description": "A pair of scissors used for cutting paper or other materials.",
+        "keywords": ["scissors", "cut", "paper", "stationary", "office"]
+      },
+      {
+        "unicode": "🗒️",
+        "name": "Spiral Notepad",
+        "category": "Office and Stationary",
+        "description": "A spiral notepad used for taking notes or writing.",
+        "keywords": ["notepad", "spiral", "note", "writing", "stationary", "office"]
+      },
+      {
+        "unicode": "🗓️",
+        "name": "Spiral Calendar",
+        "category": "Office and Stationary",
+        "description": "A spiral-bound calendar used to keep track of dates and events.",
+        "keywords": ["calendar", "spiral", "date", "event", "schedule", "stationary", "office"]
+      },
+      {
+        "unicode": "📅",
+        "name": "Calendar",
+        "category": "Office and Stationary",
+        "description": "A tear-off calendar showing a specific date.",
+        "keywords": ["calendar", "date", "event", "schedule", "stationary", "office"]
+      },
+      {
+        "unicode": "📆",
+        "name": "Tear-Off Calendar",
+        "category": "Office and Stationary",
+        "description": "A tear-off calendar showing a specific date.",
+        "keywords": ["calendar", "tear-off", "date", "event", "schedule", "stationary", "office"]
+      },
+      {
+        "unicode": "🗃️",
+        "name": "Card File Box",
+        "category": "Office and Stationary",
+        "description": "A box used to store index cards or other small items.",
+        "keywords": ["box", "card", "file", "storage", "index", "stationary", "office"]
+      },
+      {
+        "unicode": "🗄️",
+        "name": "File Cabinet",
+        "category": "Office and Stationary",
+        "description": "A tall cabinet with drawers used for storing files or documents.",
+        "keywords": ["cabinet", "file", "drawer", "storage", "document", "stationary", "office"]
+      },
+      {
+        "unicode": "📁",
+        "name": "File Folder",
+        "category": "Office and Stationary",
+        "description": "A folder used to organize documents.",
+        "keywords": ["folder", "file", "organization", "document", "office", "stationary"]
+      },
+      {
+        "unicode": "📂",
+        "name": "Open File Folder",
+        "category": "Office and Stationary",
+        "description": "An open folder used to organize documents.",
+        "keywords": ["folder", "file", "organization", "document", "office", "stationary", "open"]
+      },
+      {
+        "unicode": "🗂️",
+        "name": "Card Index Dividers",
+        "category": "Office and Stationary",
+        "description": "Card index dividers used for organizing information.",
+        "keywords": ["card", "index", "dividers", "organization", "information", "office", "stationary"]
+      },
+      {
+        "unicode": "📌",
+        "name": "Pushpin",
+        "category": "Office and Stationary",
+        "description": "A pushpin used to attach papers to a bulletin board or wall.",
+        "keywords": ["pushpin", "pin", "attachment", "bulletin board", "stationary", "office"]
+      },
+      {
+        "unicode": "📍",
+        "name": "Round Pushpin",
+        "category": "Office and Stationary",
+        "description": "A round pushpin used to mark a location on a map or document.",
+        "keywords": ["pushpin", "pin", "location", "mark", "map", "document", "stationary", "office"]
+      },
+      {
+        "unicode": "📎",
+        "name": "Paperclip",
+        "category": "Office and Stationary",
+        "description": "A paperclip used to hold multiple sheets of paper together.",
+        "keywords": ["paperclip", "clip", "paper", "attachment", "stationary", "office"]
+      },
+      {
+        "unicode": "🖇️",
+        "name": "Linked Paperclips",
+        "category": "Office and Stationary",
+        "description": "Linked paperclips used to hold multiple sheets of paper together.",
+        "keywords": ["paperclip", "clip", "paper", "attachment", "stationary", "office", "linked"]
+      },
+      {
+        "unicode": "📏",
+        "name": "Straight Ruler",
+        "category": "Office and Stationary",
+        "description": "A straight ruler used to measure distances or draw straight lines.",
+        "keywords": ["ruler", "straight", "measure", "distance", "line", "office", "stationary"]
+      },
+      {
+        "unicode": "📐",
+        "name": "Triangular Ruler",
+        "category": "Office and Stationary",
+        "description": "A triangular ruler used for technical drawing or measuring angles.",
+        "keywords": ["ruler", "triangular", "measure", "drawing", "angle", "office", "stationary"]
+      },
+      {
+        "unicode": "✂️",
+        "name": "Scissors",
+        "category": "Office and Stationary",
+        "description": "A pair of scissors used for cutting paper or other materials.",
+        "keywords": ["scissors", "cut", "paper", "stationary", "office"]
+      },
+      {
+        "unicode": "🗒️",
+        "name": "Spiral Notepad",
+        "category": "Office and Stationary",
+        "description": "A spiral notepad used for taking notes or writing.",
+        "keywords": ["notepad", "spiral", "note", "writing", "stationary", "office"]
+      },
+      {
+        "unicode": "🗓️",
+        "name": "Spiral Calendar",
+        "category": "Office and Stationary",
+        "description": "A spiral-bound calendar used to keep track of dates and events.",
+        "keywords": ["calendar", "spiral", "date", "event", "schedule", "stationary", "office"]
+      },
+      {
+        "unicode": "📅",
+        "name": "Calendar",
+        "category": "Office and Stationary",
+        "description": "A tear-off calendar showing a specific date.",
+        "keywords": ["calendar", "date", "event", "schedule", "stationary", "office"]
+      },
+      {
+        "unicode": "📆",
+        "name": "Tear-Off Calendar",
+        "category": "Office and Stationary",
+        "description": "A tear-off calendar showing a specific date.",
+        "keywords": ["calendar", "tear-off", "date", "event", "schedule", "stationary", "office"]
+      },
+      {
+        "unicode": "🗃️",
+        "name": "Card File Box",
+        "category": "Office and Stationary",
+        "description": "A box used to store index cards or other small items.",
+        "keywords": ["box", "card", "file", "storage", "index", "stationary", "office"]
+      },
+      {
+        "unicode": "🗄️",
+        "name": "File Cabinet",
+        "category": "Office and Stationary",
+        "description": "A tall cabinet with drawers used for storing files or documents.",
+        "keywords": ["cabinet", "file", "drawer", "storage", "document", "stationary", "office"]
+      }
+  ]
+  
